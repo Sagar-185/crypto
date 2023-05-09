@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import useGetCryptosQuery from "../services/cryptoApi";
 import millify from 'millify';
 function Cryptocurrencies({query}) {
-  const { data, isFetching, error } = useGetCryptosQuery(100);
+  const { data, loading } = useGetCryptosQuery(100);
   const [searchTerm, setSearchTerm] = useState('')
 
   const [cryptos, setCryptos] = useState([]);
@@ -21,7 +21,7 @@ function Cryptocurrencies({query}) {
   }, [data, searchTerm])
   
   // console.log(cryptos);
-  if (isFetching) {
+  if (loading) {
     return <div>Loading...</div>;
   }
   

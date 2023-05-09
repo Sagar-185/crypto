@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import HTMLReactParser from "html-react-parser";
+// import HTMLReactParser from "html-react-parser";
 import { useParams } from "react-router-dom";
 import useGetCryptoDetail from "../services/cryptoDetail";
 import useDetCoinDetails from "../services/coinApi";
@@ -11,7 +11,6 @@ import {
   MoneyCollectOutlined,
   DollarCircleOutlined,
   FundOutlined,
-  ExclamationCircleOutlined,
   StopOutlined,
   TrophyOutlined,
   CheckOutlined,
@@ -48,7 +47,7 @@ function CryptoDetails() {
   // console.log('History data for first element in array '+ cryptoData[0]?.data?.data?.history);
   const { data: a8, error: errorCoin, loading } = useDetCoinDetails(coinID);
 
-
+  console.log(errorCoin)
   // console.log('coinApi data '+a8)
   const [coinDetail, setCoinDetail] = useState([]);
 
@@ -151,44 +150,44 @@ function CryptoDetails() {
   const stats = [
     {
       title: "Price to USD",
-      value: `$${coinDetail?.price && millify(coinDetail?.price)}`,
+      value: `$${a8?.data?.coin?.price && millify(a8?.data?.coin?.price)}`,
       icon: <DollarCircleOutlined />,
     },
-    { title: "Rank", value: coinDetail?.rank, icon: <NumberOutlined /> },
+    { title: "Rank", value: a8?.data?.coin?.rank, icon: <NumberOutlined /> },
     {
       title: "All time High",
-      value: `$${coinDetail?.allTimeHigh?.price && millify(coinDetail?.allTimeHigh?.price)}`,
+      value: `$${a8?.data?.coin?.allTimeHigh?.price && millify(a8?.data?.coin?.allTimeHigh?.price)}`,
       icon: <ThunderboltOutlined />,
     }, //24hVolume
     {
       title: "Market Cap",
-      value: `$${coinDetail?.marketCap && millify(coinDetail?.marketCap)}`,
+      value: `$${a8?.data?.coin?.marketCap && millify(a8?.data?.coin?.marketCap)}`,
       icon: <DollarCircleOutlined />,
     },
     {
       title: "All-time-high(daily avg.)",
       value: `$${
-        coinDetail?.allTimeHigh?.price &&
-        millify(coinDetail?.allTimeHigh?.price)
+        a8?.data?.coin?.allTimeHigh?.price &&
+        millify(a8?.data?.coin?.allTimeHigh?.price)
       }`,
       icon: <TrophyOutlined />,
     },
   ];
-  // console.log(coinDetail);
+  // console.log(a8?.data?.coin);
   const genericStats = [
     {
       title: "Number Of Markets",
-      value: coinDetail?.numberOfMarkets,
+      value: a8?.data?.coin?.numberOfMarkets,
       icon: <FundOutlined />,
     },
     {
       title: "Number Of Exchanges",
-      value: coinDetail?.numberOfExchanges,
+      value: a8?.data?.coin?.numberOfExchanges,
       icon: <MoneyCollectOutlined />,
     },
     {
       title: "Aprroved Supply",
-      value: coinDetail?.supply?.confirmed ? (
+      value: a8?.data?.coin?.supply?.confirmed ? (
         <CheckOutlined />
       ) : (
         <StopOutlined />
@@ -198,21 +197,21 @@ function CryptoDetails() {
     {
       title: "Total Supply",
       value: `$${
-        coinDetail?.supply?.total && millify(coinDetail?.supply?.total)
+        a8?.data?.coin?.supply?.total && millify(a8?.data?.coin?.supply?.total)
       }`,
       icon: <DollarCircleOutlined />,
     },
     {
       title: "Circulating Supply",
       value: `$${
-        coinDetail?.supply?.circulating &&
-        millify(coinDetail?.supply?.circulating)
+        a8?.data?.coin?.supply?.circulating &&
+        millify(a8?.data?.coin?.supply?.circulating)
       }`,
       icon: <PlusCircleOutlined />,
     },
   ];
   // console.log(cryptoData7);
-  // console.log('HTMPParser test' + coinDetail.description)
+  // console.log('HTMPParser test' + a8?.data?.coin.description)
 
   return (
     <>
@@ -221,8 +220,8 @@ function CryptoDetails() {
         
         <div className="coin-detail-container">
           <div className="coin-handling-container">
-            <h2>Currency : {coinDetail.name}</h2>
-            <h6>{coinDetail.name} live datails</h6>
+            <h2>Currency : {a8?.data?.coin.name}</h2>
+            <h6>{a8?.data?.coin.name} live datails</h6>
           </div>
           <div className="stat-handling-container">
             {stats.map(({ title, value, icon }) => (
@@ -252,7 +251,7 @@ function CryptoDetails() {
           </div>
         </div>
       </div>
-      <p className="currency-description" >{coinDetail.description}</p>
+      <p className="currency-description" >{a8?.data?.coin.description}</p>
 
       <div className="time-dropdown">
         <select
@@ -271,57 +270,57 @@ function CryptoDetails() {
           {timeStamp === "3h" && (
             <LineChart
               coinHistory={cryptoData1}
-              currentPrice={coinDetail.price}
-              coinName={coinDetail.name}
+              currentPrice={a8?.data?.coin.price}
+              coinName={a8?.data?.coin.name}
             />
           )}
           {timeStamp === "24h" && (
             <LineChart
               coinHistory={cryptoData2}
-              currentPrice={coinDetail.price}
-              coinName={coinDetail.name}
+              currentPrice={a8?.data?.coin.price}
+              coinName={a8?.data?.coin.name}
             />
           )}
           {timeStamp === "7d" && (
             <LineChart
               coinHistory={cryptoData3}
-              currentPrice={coinDetail.price}
-              coinName={coinDetail.name}
+              currentPrice={a8?.data?.coin.price}
+              coinName={a8?.data?.coin.name}
             />
           )}
           {timeStamp === "30d" && (
             <LineChart
               coinHistory={cryptoData4}
-              currentPrice={coinDetail.price}
-              coinName={coinDetail.name}
+              currentPrice={a8?.data?.coin.price}
+              coinName={a8?.data?.coin.name}
             />
           )}
           {timeStamp === "3m" && (
             <LineChart
               coinHistory={cryptoData5}
-              currentPrice={coinDetail.price}
-              coinName={coinDetail.name}
+              currentPrice={a8?.data?.coin.price}
+              coinName={a8?.data?.coin.name}
             />
           )}
           {timeStamp === "1y" && (
             <LineChart
               coinHistory={cryptoData6}
-              currentPrice={coinDetail.price}
-              coinName={coinDetail.name}
+              currentPrice={a8?.data?.coin.price}
+              coinName={a8?.data?.coin.name}
             />
           )}
           {timeStamp === "5y" && (
             <LineChart
               coinHistory={cryptoData7}
-              currentPrice={coinDetail.price}
-              coinName={coinDetail.name}
+              currentPrice={a8?.data?.coin.price}
+              coinName={a8?.data?.coin.name}
             />
           )}
         </div>
         <div className="coin-links">
-          {coinDetail &&
-            coinDetail.links &&
-            coinDetail.links.map((link) => (
+          {a8?.data?.coin &&
+            a8?.data?.coin.links &&
+            a8?.data?.coin.links.map((link) => (
               <div className="coin-link">
                 <div className="link-name">{link.type}</div>
                 <Link to={link.url} target="_blank">{link.name.slice(0, 20)}</Link>

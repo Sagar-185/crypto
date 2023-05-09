@@ -1,14 +1,7 @@
 import React, { useState } from "react";
-import { Button, Typography, Menu, Avatar } from "antd";
-import { Link, navigate, useNavigate } from "react-router-dom";
 
-import {
-  HomeOutlined,
-  FundOutlined,
-  BulbOutlined,
-  MoneyCollectOutlined,
-} from "@ant-design/icons";
-import { useSelector } from "react-redux";
+import { Link, useNavigate } from "react-router-dom";
+
 
 function Navbar() {
   const [query, setQuery] = useState("");
