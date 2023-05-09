@@ -11,3 +11,86 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav-container{
+  width: 100%;
+  margin-top: 0;
+}
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+}
+
+.symbol {
+  /* padding: 0 10px; */
+  /* width: 60px; */
+  text-align: center;
+}
+
+.image {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+
+.card-image {
+  height: 30px;
+  width: auto;
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+.card-content{
+  text-decoration: none;
+  cursor: default;
+}
+.card-content:hover{
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.search-crypto{
+
+  margin: 1rem;
+  outline: none;
+  border: none;
+}
+.search-crypto input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  font-size: 16px;
+  width: 300px;
+}
+
+/* Add hover effect */
+.search-crypto input:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Add after (placeholder) effect */
+.search-crypto input::placeholder {
+  color: #aaa;
+}
+
+/* Add selected effect */
+.search-crypto input:focus {
+  outline: none;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.global-stat-handling-container{
+  width: 100%;
+  justify-content: start;
+  vertical-align: center;
+  padding: 1rem;
+  /* margin-bottom: -2rem; */
+  align-content: start;
+}
+.heading{
+  margin-top: 2rem;
+  text-align: center;
+}

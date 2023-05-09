@@ -1,0 +1,49 @@
+.row-fuckbootstrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+h3 {
+    margin: 4rem;
+}
+
+.news-card-body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 18rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: aliceblue;
+    text-decoration: none;
+    color: inherit;
+
+}
+
+.news-card-body:hover {
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.card-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 60%;
+}
+
+.card-header>img {
+    height: 100%;
+
+}
+
+.card-header>img {
+    height: 70%;
+    width: 70%;
+    flex-shrink: 0;
+    object-fit: contain;
+    margin-right: 1rem;
+}

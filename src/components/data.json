@@ -1,0 +1,3438 @@
+[
+        {
+            "id": 270,
+            "name": "Binance ",
+            "slug": "binance ",
+            "num_coins": 385,
+            "fiats": [
+                "EUR ",
+                " GBP ",
+                " BRL ",
+                " AUD ",
+                " UAH ",
+                " RUB ",
+                " TRY ",
+                " ZAR ",
+                " PLN ",
+                " NGN ",
+                " RON "
+            ],
+            "num_market_pairs": 1683,
+            "traffic_score": 1000,
+            "rank": 1,
+            "exchange_score": 9.9,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 48285413337.60326,
+                    "volume_24h_adjusted": 48285413337.60326,
+                    "volume_7d": 706074841942.3586,
+                    "volume_30d": 1729088739652.6313,
+                    "percent_change_volume_24h": 17.90778665,
+                    "percent_change_volume_7d": -9.97858784,
+                    "percent_change_volume_30d": 83.6603905,
+                    "effective_liquidity_24h": 885,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 42911763335.713005,
+                    "open_interest": 59445121795.813,
+                    "derivative_volume_usd": 42911763335.713005,
+                    "spot_volume": 8060059478.849664,
+                    "spot_volume_usd": 8060059478.849664
+                }
+            }
+        },
+        {
+            "id": 294,
+            "name": "OKX ",
+            "slug": "okx ",
+            "num_coins": 339,
+            "fiats": [
+                "AED ",
+                "ARS ",
+                "AUD ",
+                "AZN ",
+                "BRL ",
+                "CAD ",
+                "CHF ",
+                "CLP ",
+                "COP ",
+                "CZK ",
+                "EGP ",
+                "EUR ",
+                "GBP ",
+                "GHS ",
+                "HKD ",
+                "HRK ",
+                "HUF ",
+                "IDR ",
+                "ILS ",
+                "INR ",
+                "ISK ",
+                "JPY ",
+                "KES ",
+                "KRW ",
+                "KZT ",
+                "MXN ",
+                "NGN ",
+                "NOK ",
+                "NZD ",
+                "PEN ",
+                "PHP ",
+                "PLN ",
+                "RON ",
+                "RUB ",
+                "SAR ",
+                "SEK ",
+                "SGD ",
+                "THB ",
+                "TRY ",
+                "TWD ",
+                "UAH ",
+                "UGX ",
+                "USD ",
+                "UYU ",
+                "VND ",
+                "ZAR "
+            ],
+            "num_market_pairs": 714,
+            "traffic_score": 805.1767,
+            "rank": 8,
+            "exchange_score": 7.2123,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 14619820444.29685,
+                    "volume_24h_adjusted": 14619820444.29685,
+                    "volume_7d": 193935213650.87665,
+                    "volume_30d": 416135396846.1667,
+                    "percent_change_volume_24h": 23.12327983,
+                    "percent_change_volume_7d": 0.84826568,
+                    "percent_change_volume_30d": 111.34350481,
+                    "effective_liquidity_24h": 571,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 14785234980.69662,
+                    "open_interest": 3331025086.0305824,
+                    "derivative_volume_usd": 14785234980.69662,
+                    "spot_volume": 1500589016.2238533,
+                    "spot_volume_usd": 1500589016.2238533
+                }
+            }
+        },
+        {
+            "id": 1182,
+            "name": "Deepcoin ",
+            "slug": "deepcoin ",
+            "num_coins": 185,
+            "fiats": [],
+            "num_market_pairs": 223,
+            "traffic_score": 521.1641,
+            "rank": 47,
+            "exchange_score": 5.5635,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 11786226703.168396,
+                    "volume_24h_adjusted": 11786226703.168396,
+                    "volume_7d": 182905309356.9231,
+                    "volume_30d": 367199380688.40906,
+                    "percent_change_volume_24h": 4.67567047,
+                    "percent_change_volume_7d": -7.99362487,
+                    "percent_change_volume_30d": 85.08126613,
+                    "effective_liquidity_24h": 713,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 11460682159.83392,
+                    "open_interest": 9967528520,
+                    "derivative_volume_usd": 11460682159.83392,
+                    "spot_volume": 390321528.97379416,
+                    "spot_volume_usd": 390321528.97379416
+                }
+            }
+        },
+        {
+            "id": 521,
+            "name": "Bybit ",
+            "slug": "bybit ",
+            "num_coins": 378,
+            "fiats": [
+                "USD ",
+                " EUR ",
+                " GBP ",
+                " AUD ",
+                " CAD ",
+                " AED "
+            ],
+            "num_market_pairs": 571,
+            "traffic_score": 852.4276,
+            "rank": 7,
+            "exchange_score": 7.2747,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 9896610858.211742,
+                    "volume_24h_adjusted": 9896610858.211742,
+                    "volume_7d": 166886174015.7767,
+                    "volume_30d": 737103057232.9575,
+                    "percent_change_volume_24h": 30.51087317,
+                    "percent_change_volume_7d": -13.21642621,
+                    "percent_change_volume_30d": 101.36319854,
+                    "effective_liquidity_24h": 655,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 10302315184.711454,
+                    "open_interest": 4410711252.552655,
+                    "derivative_volume_usd": 10302315184.711454,
+                    "spot_volume": 732492026.5100524,
+                    "spot_volume_usd": 732492026.5100524
+                }
+            }
+        },
+        {
+            "id": 517,
+            "name": "CoinW ",
+            "slug": "coinw ",
+            "num_coins": 409,
+            "fiats": [
+                "ARS ",
+                " HKD ",
+                " PHP  ",
+                "AUD  ",
+                "HRK  ",
+                "PLN  ",
+                "BGN  ",
+                "HUF  ",
+                "RON  ",
+                "BRL  ",
+                "IDR  ",
+                "CAD  ",
+                "INR  ",
+                "SEK  ",
+                "CHF ",
+                "ISK  ",
+                "TRY  ",
+                "COP  ",
+                "JPY  ",
+                "TWD  ",
+                "CLP  ",
+                "KES  ",
+                "USD  ",
+                "CZK  ",
+                "MYR  ",
+                "VND  ",
+                "DKK  ",
+                "NOK  ",
+                "ZAR  ",
+                "EUR  ",
+                "NZD  ",
+                "GBP  ",
+                "PEN ",
+                "AED "
+            ],
+            "num_market_pairs": 432,
+            "traffic_score": 396.9101,
+            "rank": 36,
+            "exchange_score": 5.8026,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 9736092583.323345,
+                    "volume_24h_adjusted": 9736092583.323345,
+                    "volume_7d": 67981868975.5904,
+                    "volume_30d": 265799442706.898,
+                    "percent_change_volume_24h": -1.36726412,
+                    "percent_change_volume_7d": -0.74738519,
+                    "percent_change_volume_30d": 17.65173321,
+                    "effective_liquidity_24h": 594,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 8755305441.687971,
+                    "open_interest": 2197232069.45,
+                    "derivative_volume_usd": 8755305441.687971,
+                    "spot_volume": 982172593.2328705,
+                    "spot_volume_usd": 982172593.2328705
+                }
+            }
+        },
+        {
+            "id": 433,
+            "name": "Bitrue ",
+            "slug": "bitrue ",
+            "num_coins": 561,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP ",
+                "AUD ",
+                "ZAR ",
+                "CAD ",
+                "DKK ",
+                "JPY ",
+                "NOK ",
+                "KRW "
+            ],
+            "num_market_pairs": 1131,
+            "traffic_score": 749.8416,
+            "rank": 34,
+            "exchange_score": 5.8127,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 9330378081.485489,
+                    "volume_24h_adjusted": 9330378081.485489,
+                    "volume_7d": 110687952221.52069,
+                    "volume_30d": 337022699709.50165,
+                    "percent_change_volume_24h": 10.5431764,
+                    "percent_change_volume_7d": -8.27815849,
+                    "percent_change_volume_30d": 66.39706657,
+                    "effective_liquidity_24h": 561,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 8186508827.704516,
+                    "open_interest": 204557991.12099698,
+                    "derivative_volume_usd": 8186508827.704516,
+                    "spot_volume": 1145752613.111776,
+                    "spot_volume_usd": 1145752613.111776
+                }
+            }
+        },
+        {
+            "id": 513,
+            "name": "Bitget ",
+            "slug": "bitget ",
+            "num_coins": 520,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP ",
+                "RUB ",
+                "JPY ",
+                "UAH ",
+                "TRY ",
+                "HKD ",
+                "THB ",
+                "VND ",
+                "IDR ",
+                "MYR ",
+                "SGD ",
+                "PHP ",
+                "INR "
+            ],
+            "num_market_pairs": 706,
+            "traffic_score": 535.0241,
+            "rank": 18,
+            "exchange_score": 6.615,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 7785465274.647823,
+                    "volume_24h_adjusted": 7785465274.647823,
+                    "volume_7d": 42967824457.96584,
+                    "volume_30d": 268214745556.6342,
+                    "percent_change_volume_24h": 7.79440012,
+                    "percent_change_volume_7d": -1.86678519,
+                    "percent_change_volume_30d": 55.50167349,
+                    "effective_liquidity_24h": 558,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 7416912980.032977,
+                    "open_interest": 2847149125.231428,
+                    "derivative_volume_usd": 7416912980.032977,
+                    "spot_volume": 765290751.6252728,
+                    "spot_volume_usd": 765290751.6252728
+                }
+            }
+        },
+        {
+            "id": 21,
+            "name": "BTCC ",
+            "slug": "btcc ",
+            "num_coins": 12,
+            "fiats": [],
+            "num_market_pairs": 30,
+            "traffic_score": null,
+            "rank": 600,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 7068310044.877726,
+                    "volume_24h_adjusted": 7068310044.877726,
+                    "volume_7d": 43159906935.34292,
+                    "volume_30d": 214531879518.54633,
+                    "percent_change_volume_24h": 19.50848691,
+                    "percent_change_volume_7d": -4.94046148,
+                    "percent_change_volume_30d": 115.24686032,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 12915849444.253572,
+                    "open_interest": 4568646335.532593,
+                    "derivative_volume_usd": 12915849444.253572,
+                    "spot_volume": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 5751,
+            "name": "WEEX ",
+            "slug": "weex ",
+            "num_coins": 35,
+            "fiats": [],
+            "num_market_pairs": 41,
+            "traffic_score": null,
+            "rank": 41,
+            "exchange_score": 5.6794,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 6281819026.065631,
+                    "volume_24h_adjusted": 6281819026.065631,
+                    "volume_7d": 33533818673.662903,
+                    "volume_30d": 180406818341.69354,
+                    "percent_change_volume_24h": 10.80315493,
+                    "percent_change_volume_7d": -2.36208892,
+                    "percent_change_volume_30d": 51.5465287,
+                    "effective_liquidity_24h": 712,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 5971454678.826951,
+                    "open_interest": 33919588.654,
+                    "derivative_volume_usd": 5971454678.826951,
+                    "spot_volume": 310393163.8063894,
+                    "spot_volume_usd": 310393163.8063894
+                }
+            }
+        },
+        {
+            "id": 943,
+            "name": "Hotcoin Global ",
+            "slug": "hotcoin-global ",
+            "num_coins": 303,
+            "fiats": [],
+            "num_market_pairs": 370,
+            "traffic_score": 515.6841,
+            "rank": 39,
+            "exchange_score": 5.7781,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 6039462897.86975,
+                    "volume_24h_adjusted": 6039462897.86975,
+                    "volume_7d": 39939241958.742294,
+                    "volume_30d": 208529028326.5471,
+                    "percent_change_volume_24h": 10.50305959,
+                    "percent_change_volume_7d": 3.87970758,
+                    "percent_change_volume_30d": 33.29229229,
+                    "effective_liquidity_24h": 538,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 4807175459.210649,
+                    "open_interest": 7542519.1486,
+                    "derivative_volume_usd": 4807175459.210649,
+                    "spot_volume": 2924739980.952545,
+                    "spot_volume_usd": 2924739980.952545
+                }
+            }
+        },
+        {
+            "id": 1064,
+            "name": "BingX ",
+            "slug": "bingx ",
+            "num_coins": 506,
+            "fiats": [
+                "USD ",
+                "THB ",
+                "MYR ",
+                "PHP ",
+                "IDR ",
+                "INR ",
+                "VIB "
+            ],
+            "num_market_pairs": 582,
+            "traffic_score": 692.7859,
+            "rank": 56,
+            "exchange_score": 5.3548,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 5988084690.84572,
+                    "volume_24h_adjusted": 5988084690.84572,
+                    "volume_7d": 24770050392.91247,
+                    "volume_30d": 186992525565.84476,
+                    "percent_change_volume_24h": 34.62421269,
+                    "percent_change_volume_7d": 8.25593546,
+                    "percent_change_volume_30d": 102.10250376,
+                    "effective_liquidity_24h": 537,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 5818128695.872561,
+                    "open_interest": 1354589390.95,
+                    "derivative_volume_usd": 5818128695.872561,
+                    "spot_volume": 474711074.97792923,
+                    "spot_volume_usd": 474711074.97792923
+                }
+            }
+        },
+        {
+            "id": 391,
+            "name": "CoinTiger ",
+            "slug": "cointiger ",
+            "num_coins": 490,
+            "fiats": [
+                "USD ",
+                " EUR "
+            ],
+            "num_market_pairs": 566,
+            "traffic_score": 606.9006,
+            "rank": 124,
+            "exchange_score": 4.488,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 4763455863.41657,
+                    "volume_24h_adjusted": 4763455863.41657,
+                    "volume_7d": 23497183706.653797,
+                    "volume_30d": 198148782025.1828,
+                    "percent_change_volume_24h": 19.10372369,
+                    "percent_change_volume_7d": -9.48763929,
+                    "percent_change_volume_30d": 23.87974768,
+                    "effective_liquidity_24h": 584,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 4462728124.52395,
+                    "open_interest": 6013081375.138491,
+                    "derivative_volume_usd": 4462728124.52395,
+                    "spot_volume": 301061820.841844,
+                    "spot_volume_usd": 301061820.841844
+                }
+            }
+        },
+        {
+            "id": 1645,
+            "name": "Tapbit ",
+            "slug": "tapbit ",
+            "num_coins": 229,
+            "fiats": [
+                "SGD ",
+                " HKD ",
+                " THB ",
+                " PHP ",
+                " INR ",
+                " IDR ",
+                " VND ",
+                " MYR ",
+                " AUD ",
+                " NZD ",
+                " EUR ",
+                " USD ",
+                " KRW ",
+                " JPY ",
+                " TRY ",
+                " GBP. NGN. KES ",
+                " ZAR ",
+                " GHS ",
+                " TZS ",
+                "UGX ",
+                " MXN ",
+                " BRL ",
+                " CHF "
+            ],
+            "num_market_pairs": 258,
+            "traffic_score": null,
+            "rank": 57,
+            "exchange_score": 5.3501,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 4439205339.291901,
+                    "volume_24h_adjusted": 4439205339.291901,
+                    "volume_7d": 33503206388.499725,
+                    "volume_30d": 124916781126.37202,
+                    "percent_change_volume_24h": 14.65347989,
+                    "percent_change_volume_7d": -4.42753869,
+                    "percent_change_volume_30d": 185.43616807,
+                    "effective_liquidity_24h": 676,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 3895715499.1229444,
+                    "open_interest": 2235473566.8227096,
+                    "derivative_volume_usd": 3895715499.1229444,
+                    "spot_volume": 543563495.6833857,
+                    "spot_volume_usd": 543563495.6833857
+                }
+            }
+        },
+        {
+            "id": 407,
+            "name": "DigiFinex ",
+            "slug": "digifinex ",
+            "num_coins": 411,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "AED ",
+                "ARS ",
+                "AUD ",
+                "BGN ",
+                "BRL ",
+                "CAD ",
+                "CHF ",
+                "CLP ",
+                "GBP ",
+                "HKD ",
+                "INR ",
+                "JPY ",
+                "RUB ",
+                "SGD ",
+                "TWD ",
+                "COP ",
+                "CZK ",
+                "DKK ",
+                "HUF ",
+                "IDR ",
+                "ILS ",
+                "ISK ",
+                "KRW ",
+                "MXN ",
+                "MYR ",
+                "NOK "
+            ],
+            "num_market_pairs": 511,
+            "traffic_score": 725.7148,
+            "rank": 75,
+            "exchange_score": 5.0805,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 3878850019.2121024,
+                    "volume_24h_adjusted": 3878850019.2121024,
+                    "volume_7d": 24449756569.73401,
+                    "volume_30d": 142941279554.10352,
+                    "percent_change_volume_24h": 20.63738478,
+                    "percent_change_volume_7d": -9.73960087,
+                    "percent_change_volume_30d": 61.02013166,
+                    "effective_liquidity_24h": 571,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 3485927460.9458046,
+                    "open_interest": 948358290.768716,
+                    "derivative_volume_usd": 3485927460.9458046,
+                    "spot_volume": 403493088.8581438,
+                    "spot_volume_usd": 403493088.8581438
+                }
+            }
+        },
+        {
+            "id": 406,
+            "name": "BitMart ",
+            "slug": "bitmart ",
+            "num_coins": 724,
+            "fiats": [
+                "USD ",
+                "EUR "
+            ],
+            "num_market_pairs": 844,
+            "traffic_score": 706.5997,
+            "rank": 31,
+            "exchange_score": 5.895,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 2911369753.771385,
+                    "volume_24h_adjusted": 2911369753.771385,
+                    "volume_7d": 37713316267.161285,
+                    "volume_30d": 103753769013.851,
+                    "percent_change_volume_24h": 20.46541512,
+                    "percent_change_volume_7d": 1.41716683,
+                    "percent_change_volume_30d": 51.17742558,
+                    "effective_liquidity_24h": 607,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 5426707351.925144,
+                    "open_interest": 91116074692.55092,
+                    "derivative_volume_usd": 5426707351.925144,
+                    "spot_volume": 429499947.16857046,
+                    "spot_volume_usd": 429499947.16857046
+                }
+            }
+        },
+        {
+            "id": 5319,
+            "name": "SuperEx ",
+            "slug": "superex ",
+            "num_coins": 382,
+            "fiats": [],
+            "num_market_pairs": 383,
+            "traffic_score": null,
+            "rank": 470,
+            "exchange_score": 2.4953,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 2901066821.1902976,
+                    "volume_24h_adjusted": 2901066821.1902976,
+                    "volume_7d": 14189057804.453485,
+                    "volume_30d": 87012422258.16977,
+                    "percent_change_volume_24h": 18.80752307,
+                    "percent_change_volume_7d": -11.77179088,
+                    "percent_change_volume_30d": 12.44573822,
+                    "effective_liquidity_24h": 151,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 2901336730.71115,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 2901336730.71115
+                }
+            }
+        },
+        {
+            "id": 587,
+            "name": "IndoEx ",
+            "slug": "indoex ",
+            "num_coins": 122,
+            "fiats": [],
+            "num_market_pairs": 215,
+            "traffic_score": 588.589,
+            "rank": 55,
+            "exchange_score": 5.36,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 2777252562.853265,
+                    "volume_24h_adjusted": 2777252562.853265,
+                    "volume_7d": 20703718044.471275,
+                    "volume_30d": 79297047443.11073,
+                    "percent_change_volume_24h": -1.01166961,
+                    "percent_change_volume_7d": 4.25744982,
+                    "percent_change_volume_30d": 1.63661018,
+                    "effective_liquidity_24h": 657,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 3553604630.366047,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 3553604630.366047
+                }
+            }
+        },
+        {
+            "id": 549,
+            "name": "CITEX ",
+            "slug": "citex ",
+            "num_coins": 9,
+            "fiats": [],
+            "num_market_pairs": 15,
+            "traffic_score": 576.3637,
+            "rank": 331,
+            "exchange_score": 2.9239,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 2655524885.623958,
+                    "volume_24h_adjusted": 2655524885.623958,
+                    "volume_7d": 14203302587.404913,
+                    "volume_30d": 82163271851.13348,
+                    "percent_change_volume_24h": 12.76057039,
+                    "percent_change_volume_7d": -11.80308575,
+                    "percent_change_volume_30d": 0,
+                    "effective_liquidity_24h": 157,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 2680126517.921004,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 2680126517.921004
+                }
+            }
+        },
+        {
+            "id": 311,
+            "name": "KuCoin ",
+            "slug": "kucoin ",
+            "num_coins": 831,
+            "fiats": [
+                "USD ",
+                "AED ",
+                "ARS ",
+                "AUD ",
+                "AGN ",
+                "BGN ",
+                "BRL ",
+                "CAD ",
+                "CHF ",
+                "CLP ",
+                "COP ",
+                "CRC ",
+                "CZK ",
+                "DKK ",
+                "DOP ",
+                "EUR ",
+                "GBP ",
+                "GEL ",
+                "HKD ",
+                "HUF ",
+                "ILS ",
+                "INR ",
+                "JPY ",
+                "KRW ",
+                "KZT ",
+                "MAD ",
+                "MDL ",
+                "MXN ",
+                "MYR ",
+                "NAD ",
+                "NGN ",
+                "NOK ",
+                "NZD ",
+                "PEN ",
+                "PHP ",
+                "PLN ",
+                "QAR ",
+                "RON ",
+                "RUB ",
+                "SEK ",
+                "SGD ",
+                "TRY ",
+                "TWD ",
+                "UAH ",
+                "USD ",
+                "UYU ",
+                "UZS ",
+                "ZAR "
+            ],
+            "num_market_pairs": 1480,
+            "traffic_score": 814.0232,
+            "rank": 6,
+            "exchange_score": 7.5723,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 2582796588.9060593,
+                    "volume_24h_adjusted": 2582796588.9060593,
+                    "volume_7d": 20076647734.516613,
+                    "volume_30d": 87456025036.46407,
+                    "percent_change_volume_24h": 21.75812297,
+                    "percent_change_volume_7d": -5.79804616,
+                    "percent_change_volume_30d": 82.35084121,
+                    "effective_liquidity_24h": 575,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 2193977650.5684714,
+                    "open_interest": 1679423993.130246,
+                    "derivative_volume_usd": 2193977650.5684714,
+                    "spot_volume": 595258379.9467856,
+                    "spot_volume_usd": 595258379.9467856
+                }
+            }
+        },
+        {
+            "id": 302,
+            "name": "Gate.io ",
+            "slug": "gate-io ",
+            "num_coins": 1705,
+            "fiats": [
+                "KRW ",
+                "EUR "
+            ],
+            "num_market_pairs": 2742,
+            "traffic_score": 814.5596,
+            "rank": 11,
+            "exchange_score": 6.844,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 2337533808.5680413,
+                    "volume_24h_adjusted": 2337533808.5680413,
+                    "volume_7d": 14986456144.514606,
+                    "volume_30d": 82621780173.24481,
+                    "percent_change_volume_24h": 28.25115139,
+                    "percent_change_volume_7d": 5.76644294,
+                    "percent_change_volume_30d": 84.63863675,
+                    "effective_liquidity_24h": 520,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 1527258447.7126656,
+                    "open_interest": 1071905052.1301705,
+                    "derivative_volume_usd": 1527258447.7126656,
+                    "spot_volume": 824356938.5274783,
+                    "spot_volume_usd": 824356938.5274783
+                }
+            }
+        },
+        {
+            "id": 102,
+            "name": "Huobi ",
+            "slug": "huobi ",
+            "num_coins": 614,
+            "fiats": [
+                "ALL ",
+                "AUD ",
+                "BRL ",
+                "BGN ",
+                "CZK ",
+                "CHF ",
+                "DKK ",
+                "EUR ",
+                "GBP ",
+                "HKD ",
+                "HRK ",
+                "HUF ",
+                "KZT ",
+                "MDL ",
+                "MKD ",
+                "NOK ",
+                "NZD ",
+                "PHP ",
+                "PLN ",
+                "SAR ",
+                "SEK ",
+                "THB ",
+                "TRY ",
+                "UAH ",
+                "USD ",
+                "RON ",
+                "VND ",
+                "CAD ",
+                "RUB ",
+                "ARS ",
+                "AZN ",
+                "CLP ",
+                "COP ",
+                "CRC ",
+                "DOP ",
+                "GEL ",
+                "ILS ",
+                "JPY ",
+                "MAD ",
+                "MXN ",
+                "NAD ",
+                "PEN ",
+                "QAR ",
+                "UYU ",
+                "UZS ",
+                "SGD ",
+                "INR ",
+                "KRW ",
+                "TWD ",
+                "IDR "
+            ],
+            "num_market_pairs": 807,
+            "traffic_score": 787.5198,
+            "rank": 19,
+            "exchange_score": 6.5841,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 2079182976.69144,
+                    "volume_24h_adjusted": 2079182976.69144,
+                    "volume_7d": 8795446459.86731,
+                    "volume_30d": 77717565627.74863,
+                    "percent_change_volume_24h": 7.93578662,
+                    "percent_change_volume_7d": -14.19994075,
+                    "percent_change_volume_30d": 71.87190356,
+                    "effective_liquidity_24h": 497,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 1900369582.5597672,
+                    "open_interest": 214317879.73761,
+                    "derivative_volume_usd": 1900369582.5597672,
+                    "spot_volume": 526823186.3703889,
+                    "spot_volume_usd": 526823186.3703889
+                }
+            }
+        },
+        {
+            "id": 403,
+            "name": "BitForex ",
+            "slug": "bitforex ",
+            "num_coins": 222,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP ",
+                "JPY ",
+                "KRW ",
+                "AUD ",
+                "CAD ",
+                "SEK ",
+                "CHF ",
+                "HKD ",
+                "DKK ",
+                "BGN ",
+                "BRL ",
+                "ARS ",
+                "TWD ",
+                "CLP ",
+                "TRY ",
+                "ZAR ",
+                " AUD ",
+                "GBP ",
+                "RUB ",
+                "PKR ",
+                "IDR ",
+                "LKR ",
+                "DOP ",
+                "PEN ",
+                "MYR ",
+                "HRK ",
+                "THB ",
+                "MXN "
+            ],
+            "num_market_pairs": 256,
+            "traffic_score": 683.7373,
+            "rank": 25,
+            "exchange_score": 6.1831,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 1927627932.6429543,
+                    "volume_24h_adjusted": 1927627932.6429543,
+                    "volume_7d": 18217436846.35488,
+                    "volume_30d": 86408728332.38991,
+                    "percent_change_volume_24h": -28.74810796,
+                    "percent_change_volume_7d": -17.90764043,
+                    "percent_change_volume_30d": -14.95400799,
+                    "effective_liquidity_24h": 682,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 1927605188.1225505,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 1927605188.1225505
+                }
+            }
+        },
+        {
+            "id": 333,
+            "name": "LBank ",
+            "slug": "lbank ",
+            "num_coins": 487,
+            "fiats": [],
+            "num_market_pairs": 573,
+            "traffic_score": 620.4516,
+            "rank": 22,
+            "exchange_score": 6.4288,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 1809186589.4092634,
+                    "volume_24h_adjusted": 1809186589.4092634,
+                    "volume_7d": 10689960053.115667,
+                    "volume_30d": 92927222114.80777,
+                    "percent_change_volume_24h": 20.00659239,
+                    "percent_change_volume_7d": 22.52746293,
+                    "percent_change_volume_30d": 45.77391333,
+                    "effective_liquidity_24h": 605,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 1081347780.317898,
+                    "open_interest": 4317384.5956,
+                    "derivative_volume_usd": 1081347780.317898,
+                    "spot_volume": 731250913.3670366,
+                    "spot_volume_usd": 731250913.3670366
+                }
+            }
+        },
+        {
+            "id": 351,
+            "name": "Upbit ",
+            "slug": "upbit ",
+            "num_coins": 191,
+            "fiats": [
+                "KRW "
+            ],
+            "num_market_pairs": 297,
+            "traffic_score": 928.6066,
+            "rank": 28,
+            "exchange_score": 6.0024,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 1458099161.4796565,
+                    "volume_24h_adjusted": 1458099161.4796565,
+                    "volume_7d": 14320669811.961557,
+                    "volume_30d": 49004110546.860405,
+                    "percent_change_volume_24h": 41.52562142,
+                    "percent_change_volume_7d": 80.12053095,
+                    "percent_change_volume_30d": -19.57028668,
+                    "effective_liquidity_24h": 492,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 1458068341.4115763,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 1458068341.4115763
+                }
+            }
+        },
+        {
+            "id": 955,
+            "name": "Phemex ",
+            "slug": "phemex ",
+            "num_coins": 212,
+            "fiats": [],
+            "num_market_pairs": 261,
+            "traffic_score": 790.1027,
+            "rank": 54,
+            "exchange_score": 5.3975,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 1290148109.6450903,
+                    "volume_24h_adjusted": 1290148109.6450903,
+                    "volume_7d": 11550725774.326406,
+                    "volume_30d": 77355638483.18858,
+                    "percent_change_volume_24h": 11.70303973,
+                    "percent_change_volume_7d": -10.26971199,
+                    "percent_change_volume_30d": 49.42569623,
+                    "effective_liquidity_24h": 505,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 1185668478.4948,
+                    "open_interest": 373290324.46532696,
+                    "derivative_volume_usd": 1185668478.4948,
+                    "spot_volume": 104489622.42116196,
+                    "spot_volume_usd": 104489622.42116196
+                }
+            }
+        },
+        {
+            "id": 544,
+            "name": "MEXC ",
+            "slug": "mexc ",
+            "num_coins": 1604,
+            "fiats": [],
+            "num_market_pairs": 1907,
+            "traffic_score": 647.4543,
+            "rank": 23,
+            "exchange_score": 6.2566,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 1202761886.0333092,
+                    "volume_24h_adjusted": 1202761886.0333092,
+                    "volume_7d": 11730675835.843344,
+                    "volume_30d": 39118232257.70434,
+                    "percent_change_volume_24h": 15.46059059,
+                    "percent_change_volume_7d": -18.39646167,
+                    "percent_change_volume_30d": 45.66571702,
+                    "effective_liquidity_24h": 564,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 3695406857.4765615,
+                    "open_interest": 389484046,
+                    "derivative_volume_usd": 3695406857.4765615,
+                    "spot_volume": 683424823.2441802,
+                    "spot_volume_usd": 683424823.2441802
+                }
+            }
+        },
+        {
+            "id": 1563,
+            "name": "BTCEX ",
+            "slug": "btcex-exchange ",
+            "num_coins": 208,
+            "fiats": [
+                "USD ",
+                "EUR "
+            ],
+            "num_market_pairs": 249,
+            "traffic_score": null,
+            "rank": 43,
+            "exchange_score": 5.661,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 1187282489.042401,
+                    "volume_24h_adjusted": 1187282489.042401,
+                    "volume_7d": 44982577849.266335,
+                    "volume_30d": 96266032418.26324,
+                    "percent_change_volume_24h": -49.64334751,
+                    "percent_change_volume_7d": -82.95470784,
+                    "percent_change_volume_30d": -71.98268815,
+                    "effective_liquidity_24h": 678,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 910419695.9409591,
+                    "open_interest": 16652245784.214207,
+                    "derivative_volume_usd": 910419695.9409591,
+                    "spot_volume": 280437621.59705526,
+                    "spot_volume_usd": 280437621.59705526
+                }
+            }
+        },
+        {
+            "id": 525,
+            "name": "XT.COM ",
+            "slug": "xt ",
+            "num_coins": 766,
+            "fiats": [
+                "AUD ",
+                "GBP ",
+                "USD ",
+                "EUR ",
+                "CAD ",
+                "HKD ",
+                "RUB "
+            ],
+            "num_market_pairs": 1233,
+            "traffic_score": 610.9128,
+            "rank": 68,
+            "exchange_score": 5.2079,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 1186441914.543073,
+                    "volume_24h_adjusted": 1186441914.543073,
+                    "volume_7d": 35836578188.6896,
+                    "volume_30d": 67284257803.523094,
+                    "percent_change_volume_24h": 10.86783903,
+                    "percent_change_volume_7d": -26.27339081,
+                    "percent_change_volume_30d": -4.75034519,
+                    "effective_liquidity_24h": 644,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 11143035568.432375,
+                    "open_interest": 4256657279.6428156,
+                    "derivative_volume_usd": 11143035568.432375,
+                    "spot_volume": 686389533.5186822,
+                    "spot_volume_usd": 686389533.5186822
+                }
+            }
+        },
+        {
+            "id": 89,
+            "name": "Coinbase Exchange ",
+            "slug": "coinbase-exchange ",
+            "num_coins": 243,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP "
+            ],
+            "num_market_pairs": 538,
+            "traffic_score": 885.1117,
+            "rank": 2,
+            "exchange_score": 8.3946,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 973130042.134197,
+                    "volume_24h_adjusted": 973130042.134197,
+                    "volume_7d": 5485608103.869467,
+                    "volume_30d": 42642205690.727905,
+                    "percent_change_volume_24h": 36.68055476,
+                    "percent_change_volume_7d": 2.29660538,
+                    "percent_change_volume_30d": 91.03126778,
+                    "effective_liquidity_24h": 749,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 973143186.903379,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 973143186.903379
+                }
+            }
+        },
+        {
+            "id": 1348,
+            "name": "Uniswap v3 (Ethereum) ",
+            "slug": "uniswap-v3 ",
+            "num_coins": 511,
+            "fiats": [],
+            "num_market_pairs": 879,
+            "traffic_score": null,
+            "rank": 5,
+            "exchange_score": 7.7271,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 905427942.275767,
+                    "volume_24h_adjusted": 905427942.275767,
+                    "volume_7d": 6817908246.386548,
+                    "volume_30d": 16989383747.715166,
+                    "percent_change_volume_24h": -3.66959239,
+                    "percent_change_volume_7d": 44.55819633,
+                    "percent_change_volume_30d": 175.0871825,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 904990560.7984254,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 904990560.7984254
+                }
+            }
+        },
+        {
+            "id": 5590,
+            "name": "Cointr Pro ",
+            "slug": "cointr ",
+            "num_coins": 65,
+            "fiats": [
+                "USD ",
+                " TRY ",
+                " EUR ",
+                " CHF ",
+                " HRK ",
+                " MXN ",
+                " KZT ",
+                " VND ",
+                " THB ",
+                " AUD ",
+                " KRW ",
+                " ILS ",
+                " JPY ",
+                " PLN ",
+                " GBP ",
+                " MDL ",
+                " IDR ",
+                " RUB ",
+                " HKD ",
+                " TWD ",
+                "  DKK ",
+                " CAD ",
+                " MYR ",
+                " BGH ",
+                " NOK ",
+                " RON ",
+                " SGD ",
+                " SEK ",
+                " NZD ",
+                " BRL "
+            ],
+            "num_market_pairs": 136,
+            "traffic_score": null,
+            "rank": 46,
+            "exchange_score": 5.5935,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 897433722.0203856,
+                    "volume_24h_adjusted": 897433722.0203856,
+                    "volume_7d": 8349896555.308175,
+                    "volume_30d": 24301354132.43766,
+                    "percent_change_volume_24h": 23.01612913,
+                    "percent_change_volume_7d": 12.10264744,
+                    "percent_change_volume_30d": 117.97690294,
+                    "effective_liquidity_24h": 631,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 525121672.5941398,
+                    "open_interest": 6155445296.543574,
+                    "derivative_volume_usd": 525121672.5941398,
+                    "spot_volume": 372311975.87784266,
+                    "spot_volume_usd": 372311975.87784266
+                }
+            }
+        },
+        {
+            "id": 516,
+            "name": "dYdX ",
+            "slug": "dydx ",
+            "num_coins": 38,
+            "fiats": [],
+            "num_market_pairs": 37,
+            "traffic_score": 648.5049,
+            "rank": 602,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 850274312.4614,
+                    "volume_24h_adjusted": 850274312.4614,
+                    "volume_7d": 6223865314.065347,
+                    "volume_30d": 27866870838.300125,
+                    "percent_change_volume_24h": 9.59780824,
+                    "percent_change_volume_7d": -4.63315591,
+                    "percent_change_volume_30d": 228.01305257,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 966604410.939,
+                    "open_interest": 295223157.0419226,
+                    "derivative_volume_usd": 966604410.939,
+                    "spot_volume": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 157,
+            "name": "BitMEX ",
+            "slug": "bitmex ",
+            "num_coins": 21,
+            "fiats": [],
+            "num_market_pairs": 43,
+            "traffic_score": 819.3222,
+            "rank": 82,
+            "exchange_score": 5.0302,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 737954562.1150209,
+                    "volume_24h_adjusted": 737954562.1150209,
+                    "volume_7d": 7269319737.897013,
+                    "volume_30d": 23652734045.332336,
+                    "percent_change_volume_24h": 53.73758306,
+                    "percent_change_volume_7d": 8.73318573,
+                    "percent_change_volume_30d": 262.52028377,
+                    "effective_liquidity_24h": 379,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 757635762.6900041,
+                    "open_interest": 2070190118.2956555,
+                    "derivative_volume_usd": 757635762.6900041,
+                    "spot_volume": 470062.50223548,
+                    "spot_volume_usd": 470062.50223548
+                }
+            }
+        },
+        {
+            "id": 658,
+            "name": "BTSE ",
+            "slug": "btse ",
+            "num_coins": 21,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP ",
+                "HKD ",
+                "SGD ",
+                "JPY ",
+                "AUD ",
+                "AED ",
+                "CAD "
+            ],
+            "num_market_pairs": 30,
+            "traffic_score": 578.9589,
+            "rank": 608,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 710798768.028811,
+                    "volume_24h_adjusted": 710798768.028811,
+                    "volume_7d": 4967302196.201696,
+                    "volume_30d": 22004378137.36393,
+                    "percent_change_volume_24h": -17.0443208,
+                    "percent_change_volume_7d": 256.13080475,
+                    "percent_change_volume_30d": 7.55983882,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 716053615.3310109,
+                    "open_interest": 1054158015.48,
+                    "derivative_volume_usd": 716053615.3310109,
+                    "spot_volume": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 790,
+            "name": "Pionex ",
+            "slug": "pionex ",
+            "num_coins": 267,
+            "fiats": [],
+            "num_market_pairs": 320,
+            "traffic_score": 749.3795,
+            "rank": 610,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:00:13.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 652229873.207742,
+                    "volume_24h_adjusted": 652229873.207742,
+                    "volume_7d": 5288554969.527686,
+                    "volume_30d": 28356152980.608223,
+                    "percent_change_volume_24h": 0.08003784,
+                    "percent_change_volume_7d": 21.43033588,
+                    "percent_change_volume_30d": 75.69463356,
+                    "effective_liquidity_24h": 214,
+                    "last_updated": "2023-05-08T11:00:13.000Z ",
+                    "spot_volume": null,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 501,
+            "name": "WhiteBIT ",
+            "slug": "whitebit ",
+            "num_coins": 191,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "UAH ",
+                "KZT ",
+                "TRY ",
+                "GBP ",
+                "PLN ",
+                "CZK ",
+                "BGN ",
+                "GEL "
+            ],
+            "num_market_pairs": 232,
+            "traffic_score": 745.3997,
+            "rank": 45,
+            "exchange_score": 5.6454,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 651130281.4334499,
+                    "volume_24h_adjusted": 651130281.4334499,
+                    "volume_7d": 4863618620.884424,
+                    "volume_30d": 30474774396.260925,
+                    "percent_change_volume_24h": 15.77904863,
+                    "percent_change_volume_7d": -23.44354163,
+                    "percent_change_volume_30d": 187.52125951,
+                    "effective_liquidity_24h": 585,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 651178568.997448,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 651178568.997448
+                }
+            }
+        },
+        {
+            "id": 522,
+            "name": "Deribit ",
+            "slug": "deribit ",
+            "num_coins": 9,
+            "fiats": [],
+            "num_market_pairs": 12,
+            "traffic_score": 769.1989,
+            "rank": 603,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 622265168.0649818,
+                    "volume_24h_adjusted": 622265168.0649818,
+                    "volume_7d": 3945119460.8371463,
+                    "volume_30d": 5429891483.905248,
+                    "percent_change_volume_24h": 27.70951359,
+                    "percent_change_volume_7d": 11.79340318,
+                    "percent_change_volume_30d": 202.6655163,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 674163744.5232031,
+                    "open_interest": 1336698010.716,
+                    "derivative_volume_usd": 674163744.5232031,
+                    "spot_volume": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 1601,
+            "name": "Bullish ",
+            "slug": "bullish ",
+            "num_coins": 14,
+            "fiats": [
+                "USD "
+            ],
+            "num_market_pairs": 23,
+            "traffic_score": null,
+            "rank": 116,
+            "exchange_score": 4.5631,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 621868377.5504549,
+                    "volume_24h_adjusted": 621868377.5504549,
+                    "volume_7d": 3575033393.944543,
+                    "volume_30d": 19167226480.895306,
+                    "percent_change_volume_24h": 28.15476078,
+                    "percent_change_volume_7d": -10.80045671,
+                    "percent_change_volume_30d": 449.89343977,
+                    "effective_liquidity_24h": 449,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 621931454.1699177,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 621931454.1699177
+                }
+            }
+        },
+        {
+            "id": 479,
+            "name": "Dcoin ",
+            "slug": "dcoin ",
+            "num_coins": 124,
+            "fiats": [],
+            "num_market_pairs": 130,
+            "traffic_score": 604.8839,
+            "rank": 157,
+            "exchange_score": 4.1466,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 597487356.3658447,
+                    "volume_24h_adjusted": 597487356.3658447,
+                    "volume_7d": 2529932306.872906,
+                    "volume_30d": 18425739269.287735,
+                    "percent_change_volume_24h": 8.83359534,
+                    "percent_change_volume_7d": 2.34739281,
+                    "percent_change_volume_30d": 66.7994013,
+                    "effective_liquidity_24h": 460,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 597512022.1257702,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 597512022.1257702
+                }
+            }
+        },
+        {
+            "id": 42,
+            "name": "HitBTC ",
+            "slug": "hitbtc ",
+            "num_coins": 413,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP ",
+                "SGD ",
+                "IDR "
+            ],
+            "num_market_pairs": 723,
+            "traffic_score": 750.4165,
+            "rank": 136,
+            "exchange_score": 4.3717,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 589999368.6708753,
+                    "volume_24h_adjusted": 589999368.6708753,
+                    "volume_7d": 3327682954.042057,
+                    "volume_30d": 25867533119.3789,
+                    "percent_change_volume_24h": 3.70823187,
+                    "percent_change_volume_7d": -7.1313729,
+                    "percent_change_volume_30d": 83.36856173,
+                    "effective_liquidity_24h": 463,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 590038499.7524662,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 590038499.7524662
+                }
+            }
+        },
+        {
+            "id": 215,
+            "name": "P2B ",
+            "slug": "p2b ",
+            "num_coins": 148,
+            "fiats": [],
+            "num_market_pairs": 244,
+            "traffic_score": 620.1146,
+            "rank": 30,
+            "exchange_score": 5.975,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 567115569.8606111,
+                    "volume_24h_adjusted": 567115569.8606111,
+                    "volume_7d": 2947064602.759125,
+                    "volume_30d": 5344955072.54852,
+                    "percent_change_volume_24h": 82.21832792,
+                    "percent_change_volume_7d": 132.34739314,
+                    "percent_change_volume_30d": 438.25936591,
+                    "effective_liquidity_24h": 710,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 567115489.5206517,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 567115489.5206517
+                }
+            }
+        },
+        {
+            "id": 857,
+            "name": "FMFW.io ",
+            "slug": "bitcoin-com-exchange ",
+            "num_coins": 166,
+            "fiats": [],
+            "num_market_pairs": 309,
+            "traffic_score": 641.9151,
+            "rank": 104,
+            "exchange_score": 4.7608,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 552318951.4052203,
+                    "volume_24h_adjusted": 552318951.4052203,
+                    "volume_7d": 2987782933.9839606,
+                    "volume_30d": 16257918701.371655,
+                    "percent_change_volume_24h": 3.36070671,
+                    "percent_change_volume_7d": -9.32124258,
+                    "percent_change_volume_30d": 84.59080169,
+                    "effective_liquidity_24h": 386,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 552315142.3555447,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 552315142.3555447
+                }
+            }
+        },
+        {
+            "id": 6137,
+            "name": "Toobit ",
+            "slug": "toobit ",
+            "num_coins": 46,
+            "fiats": [],
+            "num_market_pairs": 71,
+            "traffic_score": null,
+            "rank": 44,
+            "exchange_score": 5.6576,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 527455609.04271716,
+                    "volume_24h_adjusted": 527455609.04271716,
+                    "volume_7d": 3627568622.769444,
+                    "volume_30d": 17304460866.467392,
+                    "percent_change_volume_24h": 13.73442257,
+                    "percent_change_volume_7d": -2.83254153,
+                    "percent_change_volume_30d": 135.36405477,
+                    "effective_liquidity_24h": 636,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 106214185.46165796,
+                    "open_interest": 17582117.201051,
+                    "derivative_volume_usd": 106214185.46165796,
+                    "spot_volume": 421280534.8131065,
+                    "spot_volume_usd": 421280534.8131065
+                }
+            }
+        },
+        {
+            "id": 24,
+            "name": "Kraken ",
+            "slug": "kraken ",
+            "num_coins": 226,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP ",
+                "CAD ",
+                "JPY ",
+                "CHF ",
+                "AUD "
+            ],
+            "num_market_pairs": 715,
+            "traffic_score": 871.848,
+            "rank": 3,
+            "exchange_score": 8.0323,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 501935993.60870284,
+                    "volume_24h_adjusted": 501935993.60870284,
+                    "volume_7d": 2972357708.9282055,
+                    "volume_30d": 19606794940.286945,
+                    "percent_change_volume_24h": 39.47257174,
+                    "percent_change_volume_7d": -8.97797024,
+                    "percent_change_volume_30d": 121.91925073,
+                    "effective_liquidity_24h": 751,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 109369910.6203914,
+                    "open_interest": 50979383.1662,
+                    "derivative_volume_usd": 109369910.6203914,
+                    "spot_volume": 396094795.63045865,
+                    "spot_volume_usd": 396094795.63045865
+                }
+            }
+        },
+        {
+            "id": 645,
+            "name": "BitUBU ",
+            "slug": "bitubu ",
+            "num_coins": 327,
+            "fiats": [],
+            "num_market_pairs": 525,
+            "traffic_score": 490.8021,
+            "rank": 199,
+            "exchange_score": 3.6812,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 479135337.2355999,
+                    "volume_24h_adjusted": 479135337.2355999,
+                    "volume_7d": 1757384581.8427656,
+                    "volume_30d": 13302086037.55869,
+                    "percent_change_volume_24h": 19.80364714,
+                    "percent_change_volume_7d": 37.1734559,
+                    "percent_change_volume_30d": 139.33423401,
+                    "effective_liquidity_24h": 424,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 479175525.12935376,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 479175525.12935376
+                }
+            }
+        },
+        {
+            "id": 1128,
+            "name": "Changelly PRO ",
+            "slug": "changelly-pro ",
+            "num_coins": 48,
+            "fiats": [],
+            "num_market_pairs": 109,
+            "traffic_score": 538.76,
+            "rank": 188,
+            "exchange_score": 3.7743,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 478986419.77276707,
+                    "volume_24h_adjusted": 478986419.77276707,
+                    "volume_7d": 2737193306.9465923,
+                    "volume_30d": 24662982956.36427,
+                    "percent_change_volume_24h": -0.34041958,
+                    "percent_change_volume_7d": -9.34314484,
+                    "percent_change_volume_30d": 127.13598671,
+                    "effective_liquidity_24h": 413,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 479021661.92492765,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 479021661.92492765
+                }
+            }
+        },
+        {
+            "id": 1653,
+            "name": "ZOOMEX ",
+            "slug": "zoomex ",
+            "num_coins": 101,
+            "fiats": [],
+            "num_market_pairs": 103,
+            "traffic_score": null,
+            "rank": 575,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 420198149.31013423,
+                    "volume_24h_adjusted": 420198149.31013423,
+                    "volume_7d": 2685229453.2792397,
+                    "volume_30d": 13849571804.960512,
+                    "percent_change_volume_24h": 18.98812707,
+                    "percent_change_volume_7d": -13.0540434,
+                    "percent_change_volume_30d": 61.04283743,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 420164398.0761775,
+                    "open_interest": 125574190.57948494,
+                    "derivative_volume_usd": 420164398.0761775,
+                    "spot_volume": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 1069,
+            "name": "Uniswap v2 ",
+            "slug": "uniswap-v2 ",
+            "num_coins": 1098,
+            "fiats": [],
+            "num_market_pairs": 1369,
+            "traffic_score": 817.8716,
+            "rank": 4,
+            "exchange_score": 7.7512,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 407118780.475846,
+                    "volume_24h_adjusted": 407118780.475846,
+                    "volume_7d": 2397262831.4023037,
+                    "volume_30d": 34494662297.13193,
+                    "percent_change_volume_24h": -19.65306557,
+                    "percent_change_volume_7d": 28.78842006,
+                    "percent_change_volume_30d": 592.87365046,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 406982436.1758306,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 406982436.1758306
+                }
+            }
+        },
+        {
+            "id": 1173,
+            "name": "LMAX Digital ",
+            "slug": "lmax-digital ",
+            "num_coins": 10,
+            "fiats": [
+                "USD ",
+                " JPY ",
+                " EUR ",
+                " GBP "
+            ],
+            "num_market_pairs": 19,
+            "traffic_score": null,
+            "rank": 158,
+            "exchange_score": 4.126,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 399773541.57879233,
+                    "volume_24h_adjusted": 399773541.57879233,
+                    "volume_7d": 1606605729.768803,
+                    "volume_30d": 16510165871.282467,
+                    "percent_change_volume_24h": 6.32285231,
+                    "percent_change_volume_7d": -22.22734118,
+                    "percent_change_volume_30d": 181.64328537,
+                    "effective_liquidity_24h": 401,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 399773720.13872075,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 399773720.13872075
+                }
+            }
+        },
+        {
+            "id": 219,
+            "name": "Tidex ",
+            "slug": "tidex ",
+            "num_coins": 40,
+            "fiats": [
+                "ARS ",
+                " BRL ",
+                " EUR ",
+                " GBP ",
+                " KZT ",
+                " TRY ",
+                " UAH ",
+                " VND "
+            ],
+            "num_market_pairs": 128,
+            "traffic_score": 668.0977,
+            "rank": 86,
+            "exchange_score": 4.9651,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 370522506.80909926,
+                    "volume_24h_adjusted": 370522506.80909926,
+                    "volume_7d": 2203936702.232336,
+                    "volume_30d": 7586273459.848806,
+                    "percent_change_volume_24h": 13.88043812,
+                    "percent_change_volume_7d": -13.59267276,
+                    "percent_change_volume_30d": 132.07238426,
+                    "effective_liquidity_24h": 547,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 370522506.8090737,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 370522506.8090737
+                }
+            }
+        },
+        {
+            "id": 937,
+            "name": "Biconomy Exchange ",
+            "slug": "biconomy ",
+            "num_coins": 110,
+            "fiats": [
+                "AED ",
+                "AUD ",
+                "BRL ",
+                "CAD ",
+                "CHF ",
+                "CZK ",
+                "DKK ",
+                "EUR ",
+                "GBP ",
+                "HKD ",
+                "IDR ",
+                "INR ",
+                "JPY ",
+                "KRW ",
+                "MXN ",
+                "MYR ",
+                "NOK ",
+                "NZD ",
+                "PHP ",
+                "PLN ",
+                "QAR ",
+                "SAR ",
+                "SEK ",
+                "SGD ",
+                "THB ",
+                "TRY ",
+                "TWD ",
+                "USD ",
+                "VND ",
+                "ZAR "
+            ],
+            "num_market_pairs": 114,
+            "traffic_score": 493.464,
+            "rank": 29,
+            "exchange_score": 5.9794,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 367405420.73403656,
+                    "volume_24h_adjusted": 367405420.73403656,
+                    "volume_7d": 1869667624.0162528,
+                    "volume_30d": 16688272609.293953,
+                    "percent_change_volume_24h": 50.95509353,
+                    "percent_change_volume_7d": 18.61549753,
+                    "percent_change_volume_30d": -21.11064855,
+                    "effective_liquidity_24h": 782,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 367444997.95245695,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 367444997.95245695
+                }
+            }
+        },
+        {
+            "id": 1117,
+            "name": "Azbit ",
+            "slug": "azbit ",
+            "num_coins": 65,
+            "fiats": [],
+            "num_market_pairs": 104,
+            "traffic_score": 652.297,
+            "rank": 49,
+            "exchange_score": 5.4616,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 357865714.10518104,
+                    "volume_24h_adjusted": 357865714.10518104,
+                    "volume_7d": 2460142669.376055,
+                    "volume_30d": 10868045773.701324,
+                    "percent_change_volume_24h": -1.93412625,
+                    "percent_change_volume_7d": -1.71035118,
+                    "percent_change_volume_30d": 0.20630946,
+                    "effective_liquidity_24h": 644,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 357897477.23495114,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 357897477.23495114
+                }
+            }
+        },
+        {
+            "id": 630,
+            "name": "Binance.US ",
+            "slug": "binance-us ",
+            "num_coins": 154,
+            "fiats": [
+                "USD "
+            ],
+            "num_market_pairs": 307,
+            "traffic_score": 824.3561,
+            "rank": 13,
+            "exchange_score": 6.8228,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 344093480.8428369,
+                    "volume_24h_adjusted": 344093480.8428369,
+                    "volume_7d": 2742508436.9630756,
+                    "volume_30d": 29855232062.432446,
+                    "percent_change_volume_24h": 33.88175864,
+                    "percent_change_volume_7d": -15.02546062,
+                    "percent_change_volume_30d": 55.34128726,
+                    "effective_liquidity_24h": 704,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 344099960.19730777,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 344099960.19730777
+                }
+            }
+        },
+        {
+            "id": 228,
+            "name": "BTC-Alpha ",
+            "slug": "btc-alpha ",
+            "num_coins": 13,
+            "fiats": [
+                "USD ",
+                "EUR "
+            ],
+            "num_market_pairs": 12,
+            "traffic_score": 690.2474,
+            "rank": 245,
+            "exchange_score": 3.2623,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 338745529.19051915,
+                    "volume_24h_adjusted": 338745529.19051915,
+                    "volume_7d": 2210945237.8343315,
+                    "volume_30d": 9242043735.905638,
+                    "percent_change_volume_24h": -0.15202559,
+                    "percent_change_volume_7d": 49.71542875,
+                    "percent_change_volume_30d": -2.09899213,
+                    "effective_liquidity_24h": 235,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 338714080.41968274,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 338714080.41968274
+                }
+            }
+        },
+        {
+            "id": 350,
+            "name": "CoinEx ",
+            "slug": "coinex ",
+            "num_coins": 624,
+            "fiats": [],
+            "num_market_pairs": 912,
+            "traffic_score": 811.4743,
+            "rank": 77,
+            "exchange_score": 5.0578,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 323437533.9880977,
+                    "volume_24h_adjusted": 323437533.9880977,
+                    "volume_7d": 1484740066.5779028,
+                    "volume_30d": 15918582335.448408,
+                    "percent_change_volume_24h": 29.35831427,
+                    "percent_change_volume_7d": 3.96344712,
+                    "percent_change_volume_30d": 127.19998661,
+                    "effective_liquidity_24h": 475,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 321943289.9729556,
+                    "open_interest": 272753027787262.6,
+                    "derivative_volume_usd": 321943289.9729556,
+                    "spot_volume": 39617200.67646469,
+                    "spot_volume_usd": 39617200.67646469
+                }
+            }
+        },
+        {
+            "id": 460,
+            "name": "Coinsbit ",
+            "slug": "coinsbit ",
+            "num_coins": 114,
+            "fiats": [
+                "USD ",
+                "EUR "
+            ],
+            "num_market_pairs": 163,
+            "traffic_score": 763.0988,
+            "rank": 59,
+            "exchange_score": 5.3383,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 322150537.28139716,
+                    "volume_24h_adjusted": 322150537.28139716,
+                    "volume_7d": 2019923271.561677,
+                    "volume_30d": 9198049554.426958,
+                    "percent_change_volume_24h": 13.47445287,
+                    "percent_change_volume_7d": -11.0404651,
+                    "percent_change_volume_30d": 108.85383055,
+                    "effective_liquidity_24h": 571,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 322159804.6245249,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 322159804.6245249
+                }
+            }
+        },
+        {
+            "id": 1411,
+            "name": "Coinstore ",
+            "slug": "coinstore ",
+            "num_coins": 96,
+            "fiats": [
+                "EUR ",
+                " GBP ",
+                " USD ",
+                " JPY ",
+                " KRW ",
+                " GHS ",
+                " KES ",
+                " NGN ",
+                " RUB ",
+                " TRY ",
+                " TZS ",
+                " UAH ",
+                " UGX ",
+                " ZAR ",
+                " IDR ",
+                " INR ",
+                " VND ",
+                " BRL "
+            ],
+            "num_market_pairs": 97,
+            "traffic_score": null,
+            "rank": 53,
+            "exchange_score": 5.4348,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 316339909.0636841,
+                    "volume_24h_adjusted": 316339909.0636841,
+                    "volume_7d": 2180942925.452895,
+                    "volume_30d": 9698176785.503067,
+                    "percent_change_volume_24h": -1.79008584,
+                    "percent_change_volume_7d": -2.6379181,
+                    "percent_change_volume_30d": 124.88342518,
+                    "effective_liquidity_24h": 535,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 316310523.7422407,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 316310523.7422407
+                }
+            }
+        },
+        {
+            "id": 453,
+            "name": "AscendEX (BitMax) ",
+            "slug": "ascendex ",
+            "num_coins": 307,
+            "fiats": [
+                "USD "
+            ],
+            "num_market_pairs": 368,
+            "traffic_score": 688.4435,
+            "rank": 99,
+            "exchange_score": 4.8424,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 297015915.96675366,
+                    "volume_24h_adjusted": 297015915.96675366,
+                    "volume_7d": 1619876292.2102282,
+                    "volume_30d": 7426227239.364887,
+                    "percent_change_volume_24h": 4.72960727,
+                    "percent_change_volume_7d": 24.70702236,
+                    "percent_change_volume_30d": 34.99828214,
+                    "effective_liquidity_24h": 307,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "derivative_volume": 96703785.57876068,
+                    "open_interest": 0,
+                    "derivative_volume_usd": 96703785.57876068,
+                    "spot_volume": 200312157.6021175,
+                    "spot_volume_usd": 200312157.6021175
+                }
+            }
+        },
+        {
+            "id": 6637,
+            "name": "Blofin ",
+            "slug": "blofin ",
+            "num_coins": 61,
+            "fiats": [],
+            "num_market_pairs": 60,
+            "traffic_score": null,
+            "rank": 224,
+            "exchange_score": 3.4452,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 284060591.9963804,
+                    "volume_24h_adjusted": 284060591.9963804,
+                    "volume_7d": 1863581498.6449647,
+                    "volume_30d": 9111395063.318285,
+                    "percent_change_volume_24h": 4.60394923,
+                    "percent_change_volume_7d": 1.9597777,
+                    "percent_change_volume_30d": 0,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 284060591.9963804,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 284060591.9963804
+                }
+            }
+        },
+        {
+            "id": 1478,
+            "name": "Uniswap v3 (Arbitrum) ",
+            "slug": "uniswap-v3-arbitrum ",
+            "num_coins": 125,
+            "fiats": [],
+            "num_market_pairs": 373,
+            "traffic_score": null,
+            "rank": 20,
+            "exchange_score": 6.5388,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 271383760.6432273,
+                    "volume_24h_adjusted": 271383760.6432273,
+                    "volume_7d": 1953069850.8528264,
+                    "volume_30d": 6718534694.484828,
+                    "percent_change_volume_24h": 11.64354678,
+                    "percent_change_volume_7d": -8.09961751,
+                    "percent_change_volume_30d": 66.87619422,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 271362980.90336704,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 271362980.90336704
+                }
+            }
+        },
+        {
+            "id": 37,
+            "name": "Bitfinex ",
+            "slug": "bitfinex ",
+            "num_coins": 192,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP ",
+                "JPY "
+            ],
+            "num_market_pairs": 416,
+            "traffic_score": 806.126,
+            "rank": 10,
+            "exchange_score": 7.0954,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 267153317.877886,
+                    "volume_24h_adjusted": 267153317.877886,
+                    "volume_7d": 1218723444.3264878,
+                    "volume_30d": 12509475588.464878,
+                    "percent_change_volume_24h": 1.46065729,
+                    "percent_change_volume_7d": -5.26250659,
+                    "percent_change_volume_30d": 29.54018895,
+                    "effective_liquidity_24h": 597,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 153025905.56337607,
+                    "open_interest": 96190.7133974,
+                    "derivative_volume_usd": 153025905.56337607,
+                    "spot_volume": 114123158.57316764,
+                    "spot_volume_usd": 114123158.57316764
+                }
+            }
+        },
+        {
+            "id": 1261,
+            "name": "OpenOcean ",
+            "slug": "openocean ",
+            "num_coins": 124,
+            "fiats": [],
+            "num_market_pairs": 365,
+            "traffic_score": null,
+            "rank": 84,
+            "exchange_score": 4.9943,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 249911836.82945302,
+                    "volume_24h_adjusted": 249911836.82945302,
+                    "volume_7d": 1702946439.5156999,
+                    "volume_30d": 84410956972.02577,
+                    "percent_change_volume_24h": 365.19881105,
+                    "percent_change_volume_7d": 2705.16502032,
+                    "percent_change_volume_30d": 2571.39160696,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 248351119.15847546,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 248351119.15847546
+                }
+            }
+        },
+        {
+            "id": 1161,
+            "name": "BIT ",
+            "slug": "bit-com ",
+            "num_coins": 80,
+            "fiats": [
+                "USD "
+            ],
+            "num_market_pairs": 137,
+            "traffic_score": 566.06,
+            "rank": 98,
+            "exchange_score": 4.8458,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 247999221.64076728,
+                    "volume_24h_adjusted": 247999221.64076728,
+                    "volume_7d": 1294730158.87038,
+                    "volume_30d": 9679775009.70817,
+                    "percent_change_volume_24h": 2.45916116,
+                    "percent_change_volume_7d": 0.82628228,
+                    "percent_change_volume_30d": 31.16365136,
+                    "effective_liquidity_24h": 468,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 342854759.26815,
+                    "open_interest": 475914308.9409094,
+                    "derivative_volume_usd": 342854759.26815,
+                    "spot_volume": 150968393.11458427,
+                    "spot_volume_usd": 150968393.11458427
+                }
+            }
+        },
+        {
+            "id": 1289,
+            "name": "WOO X ",
+            "slug": "wootrade ",
+            "num_coins": 99,
+            "fiats": [],
+            "num_market_pairs": 153,
+            "traffic_score": 654.0349,
+            "rank": 105,
+            "exchange_score": 4.7196,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 235108390.04762247,
+                    "volume_24h_adjusted": 235108390.04762247,
+                    "volume_7d": 2678852078.5501223,
+                    "volume_30d": 7841770295.579474,
+                    "percent_change_volume_24h": 30.61428169,
+                    "percent_change_volume_7d": -2.85058025,
+                    "percent_change_volume_30d": -2.84809491,
+                    "effective_liquidity_24h": 524,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 182048122.52157718,
+                    "open_interest": 0,
+                    "derivative_volume_usd": 182048122.52157718,
+                    "spot_volume": 53607604.83667625,
+                    "spot_volume_usd": 53607604.83667625
+                }
+            }
+        },
+        {
+            "id": 961,
+            "name": "Bitspay ",
+            "slug": "bitspay ",
+            "num_coins": 14,
+            "fiats": [],
+            "num_market_pairs": 38,
+            "traffic_score": null,
+            "rank": 93,
+            "exchange_score": 4.9089,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 234261602.34995347,
+                    "volume_24h_adjusted": 234261602.34995347,
+                    "volume_7d": 1789787749.2230382,
+                    "volume_30d": 7454659867.656409,
+                    "percent_change_volume_24h": 0.83129957,
+                    "percent_change_volume_7d": 11.1867482,
+                    "percent_change_volume_30d": -33.2875409,
+                    "effective_liquidity_24h": 554,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 234246776.6601814,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 234246776.6601814
+                }
+            }
+        },
+        {
+            "id": 1149,
+            "name": "Crypto.com Exchange ",
+            "slug": "crypto-com-exchange ",
+            "num_coins": 235,
+            "fiats": [],
+            "num_market_pairs": 507,
+            "traffic_score": 787.3112,
+            "rank": 26,
+            "exchange_score": 6.1474,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 218351350.51981103,
+                    "volume_24h_adjusted": 218351350.51981103,
+                    "volume_7d": 1285268702.132597,
+                    "volume_30d": 7542426974.172897,
+                    "percent_change_volume_24h": 17.73465903,
+                    "percent_change_volume_7d": -7.70174881,
+                    "percent_change_volume_30d": 44.80583059,
+                    "effective_liquidity_24h": 598,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 84098948.72,
+                    "open_interest": 17203302518.8739,
+                    "derivative_volume_usd": 84098948.72,
+                    "spot_volume": 135509337.0113492,
+                    "spot_volume_usd": 135509337.0113492
+                }
+            }
+        },
+        {
+            "id": 1414,
+            "name": "Kine Protocol ",
+            "slug": "kine-protocol ",
+            "num_coins": 17,
+            "fiats": [],
+            "num_market_pairs": 16,
+            "traffic_score": null,
+            "rank": 621,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 207866843.8633,
+                    "volume_24h_adjusted": 207866843.8633,
+                    "volume_7d": 1464955628.187478,
+                    "volume_30d": 5676823534.058537,
+                    "percent_change_volume_24h": 7.76364734,
+                    "percent_change_volume_7d": -9.53641007,
+                    "percent_change_volume_30d": -17.61476131,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 207866843.8633,
+                    "open_interest": 0,
+                    "derivative_volume_usd": 207866843.8633,
+                    "spot_volume": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 482,
+            "name": "BKEX ",
+            "slug": "bkex ",
+            "num_coins": 577,
+            "fiats": [],
+            "num_market_pairs": 596,
+            "traffic_score": 643.3965,
+            "rank": 33,
+            "exchange_score": 5.8342,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 199180529.9118679,
+                    "volume_24h_adjusted": 199180529.9118679,
+                    "volume_7d": 1630356701.3306406,
+                    "volume_30d": 17332654751.85227,
+                    "percent_change_volume_24h": -8.30796255,
+                    "percent_change_volume_7d": -0.67660689,
+                    "percent_change_volume_30d": -70.73426022,
+                    "effective_liquidity_24h": 559,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 224713858.96717653,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 224713858.96717653
+                }
+            }
+        },
+        {
+            "id": 200,
+            "name": "Bithumb ",
+            "slug": "bithumb ",
+            "num_coins": 224,
+            "fiats": [
+                "KRW "
+            ],
+            "num_market_pairs": 231,
+            "traffic_score": 794.4738,
+            "rank": 16,
+            "exchange_score": 6.6626,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 198740949.01273263,
+                    "volume_24h_adjusted": 198740949.01273263,
+                    "volume_7d": 2114641316.0677054,
+                    "volume_30d": 7333392883.619729,
+                    "percent_change_volume_24h": 24.23546694,
+                    "percent_change_volume_7d": -6.26308649,
+                    "percent_change_volume_30d": 31.12059329,
+                    "effective_liquidity_24h": 441,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 197872884.99585432,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 197872884.99585432
+                }
+            }
+        },
+        {
+            "id": 945,
+            "name": "SWFT Octopus Trade ",
+            "slug": "swft-octopus-trade ",
+            "num_coins": 13,
+            "fiats": [],
+            "num_market_pairs": 18,
+            "traffic_score": null,
+            "rank": 148,
+            "exchange_score": 4.2704,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 198195160.2609535,
+                    "volume_24h_adjusted": 198195160.2609535,
+                    "volume_7d": 998007303.0106378,
+                    "volume_30d": 188131517161.5345,
+                    "percent_change_volume_24h": 11.58576092,
+                    "percent_change_volume_7d": -20.44437617,
+                    "percent_change_volume_30d": 179.10083945,
+                    "effective_liquidity_24h": 499,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 198212205.63851252,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 198212205.63851252
+                }
+            }
+        },
+        {
+            "id": 1375,
+            "name": "Binance TR ",
+            "slug": "binance-tr ",
+            "num_coins": 93,
+            "fiats": [
+                "TRY "
+            ],
+            "num_market_pairs": 127,
+            "traffic_score": null,
+            "rank": 37,
+            "exchange_score": 5.7924,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 192218211.75607413,
+                    "volume_24h_adjusted": 192218211.75607413,
+                    "volume_7d": 1331198940.6330628,
+                    "volume_30d": 4813203214.680842,
+                    "percent_change_volume_24h": 21.79999234,
+                    "percent_change_volume_7d": 22.48382138,
+                    "percent_change_volume_30d": -22.72213551,
+                    "effective_liquidity_24h": 477,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 192218125.3189054,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 192218125.3189054
+                }
+            }
+        },
+        {
+            "id": 3631,
+            "name": "DIFX ",
+            "slug": "difx ",
+            "num_coins": 42,
+            "fiats": [],
+            "num_market_pairs": 41,
+            "traffic_score": null,
+            "rank": 65,
+            "exchange_score": 5.2556,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 191949889.258752,
+                    "volume_24h_adjusted": 191949889.258752,
+                    "volume_7d": 2333611137.956967,
+                    "volume_30d": 6309924918.470604,
+                    "percent_change_volume_24h": -1.76182754,
+                    "percent_change_volume_7d": -21.66521563,
+                    "percent_change_volume_30d": 100.18625217,
+                    "effective_liquidity_24h": 594,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 191949889.258752,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 191949889.258752
+                }
+            }
+        },
+        {
+            "id": 922,
+            "name": "StormGain ",
+            "slug": "stormgain ",
+            "num_coins": 30,
+            "fiats": [],
+            "num_market_pairs": 37,
+            "traffic_score": 686.0014,
+            "rank": 216,
+            "exchange_score": 3.5057,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 185410378.66196463,
+                    "volume_24h_adjusted": 185410378.66196463,
+                    "volume_7d": 1109304379.4363542,
+                    "volume_30d": 6226547481.986749,
+                    "percent_change_volume_24h": 7.14895039,
+                    "percent_change_volume_7d": -25.0655488,
+                    "percent_change_volume_30d": 74.91629443,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 182742197.65876976,
+                    "open_interest": 121580612.38976961,
+                    "derivative_volume_usd": 182742197.65876976,
+                    "spot_volume": 2668428.73725069,
+                    "spot_volume_usd": 2668428.73725069
+                }
+            }
+        },
+        {
+            "id": 791,
+            "name": "ZT ",
+            "slug": "zt ",
+            "num_coins": 321,
+            "fiats": [],
+            "num_market_pairs": 332,
+            "traffic_score": 709.8682,
+            "rank": 160,
+            "exchange_score": 4.1061,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 184101039.08435273,
+                    "volume_24h_adjusted": 184101039.08435273,
+                    "volume_7d": 1273060043.6205919,
+                    "volume_30d": 8775606185.119225,
+                    "percent_change_volume_24h": 6.30100172,
+                    "percent_change_volume_7d": 3.18079358,
+                    "percent_change_volume_30d": 134.2128587,
+                    "effective_liquidity_24h": 399,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 184099833.0640868,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 184099833.0640868
+                }
+            }
+        },
+        {
+            "id": 6706,
+            "name": "PancakeSwap v3 (BSC) ",
+            "slug": "pancakeswap-v3-bsc ",
+            "num_coins": 225,
+            "fiats": [],
+            "num_market_pairs": 416,
+            "traffic_score": null,
+            "rank": 58,
+            "exchange_score": 5.339,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 180284694.1388922,
+                    "volume_24h_adjusted": 180284694.1388922,
+                    "volume_7d": 1203420384.1382604,
+                    "volume_30d": 5336934295.851269,
+                    "percent_change_volume_24h": 20.03475221,
+                    "percent_change_volume_7d": -3.03083921,
+                    "percent_change_volume_30d": 233.4946819,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 180251712.1894232,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 180251712.1894232
+                }
+            }
+        },
+        {
+            "id": 70,
+            "name": "Bitstamp ",
+            "slug": "bitstamp ",
+            "num_coins": 74,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "GBP "
+            ],
+            "num_market_pairs": 165,
+            "traffic_score": 770.0589,
+            "rank": 9,
+            "exchange_score": 7.1771,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 177309188.09481826,
+                    "volume_24h_adjusted": 177309188.09481826,
+                    "volume_7d": 1338728195.4806206,
+                    "volume_30d": 5476918361.555744,
+                    "percent_change_volume_24h": 93.92295201,
+                    "percent_change_volume_7d": 19.36225848,
+                    "percent_change_volume_30d": 340.13610676,
+                    "effective_liquidity_24h": 600,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 177328025.9107482,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 177328025.9107482
+                }
+            }
+        },
+        {
+            "id": 339,
+            "name": "Bibox ",
+            "slug": "bibox ",
+            "num_coins": 310,
+            "fiats": [],
+            "num_market_pairs": 380,
+            "traffic_score": 620.4603,
+            "rank": 228,
+            "exchange_score": 3.403,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 169172475.15496564,
+                    "volume_24h_adjusted": 169172475.15496564,
+                    "volume_7d": 1336598110.108535,
+                    "volume_30d": 6591197649.863069,
+                    "percent_change_volume_24h": -10.69214647,
+                    "percent_change_volume_7d": -26.43422816,
+                    "percent_change_volume_30d": -5.34011101,
+                    "effective_liquidity_24h": 308,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 169177094.9083389,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 169177094.9083389
+                }
+            }
+        },
+        {
+            "id": 1344,
+            "name": "PancakeSwap v2 (BSC) ",
+            "slug": "pancakeswap-v2 ",
+            "num_coins": 2868,
+            "fiats": [],
+            "num_market_pairs": 3837,
+            "traffic_score": null,
+            "rank": 14,
+            "exchange_score": 6.7799,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 158424415.1742721,
+                    "volume_24h_adjusted": 158424415.1742721,
+                    "volume_7d": 866197342.01459,
+                    "volume_30d": 4196364555.8956594,
+                    "percent_change_volume_24h": 11.5900285,
+                    "percent_change_volume_7d": 38.09612824,
+                    "percent_change_volume_30d": 42.95557938,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 158396407.2619206,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 158396407.2619206
+                }
+            }
+        },
+        {
+            "id": 1561,
+            "name": "Bit2Me Pro ",
+            "slug": "bit2me ",
+            "num_coins": 31,
+            "fiats": [
+                "Eur "
+            ],
+            "num_market_pairs": 33,
+            "traffic_score": null,
+            "rank": 111,
+            "exchange_score": 4.6331,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 156095914.48203892,
+                    "volume_24h_adjusted": 156095914.48203892,
+                    "volume_7d": 1399329588.2066426,
+                    "volume_30d": 3953477525.5307994,
+                    "percent_change_volume_24h": 36.67647447,
+                    "percent_change_volume_7d": 60.22708338,
+                    "percent_change_volume_30d": 340.65763021,
+                    "effective_liquidity_24h": 520,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 156118489.57323018,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 156118489.57323018
+                }
+            }
+        },
+        {
+            "id": 699,
+            "name": "Currency.com ",
+            "slug": "currency-com ",
+            "num_coins": 44,
+            "fiats": [
+                "USD ",
+                "EUR ",
+                "RUB ",
+                "BYN "
+            ],
+            "num_market_pairs": 72,
+            "traffic_score": 690.5515,
+            "rank": 72,
+            "exchange_score": 5.1704,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 147487430.80250904,
+                    "volume_24h_adjusted": 147487430.80250904,
+                    "volume_7d": 2088606629.1404736,
+                    "volume_30d": 9299700737.767397,
+                    "percent_change_volume_24h": 1.48926916,
+                    "percent_change_volume_7d": -12.06984982,
+                    "percent_change_volume_30d": 105.44515869,
+                    "effective_liquidity_24h": 535,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 147488287.31124336,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 147488287.31124336
+                }
+            }
+        },
+        {
+            "id": 1106,
+            "name": "Aave ",
+            "slug": "aave ",
+            "num_coins": 20,
+            "fiats": [],
+            "num_market_pairs": 10,
+            "traffic_score": 719.6793,
+            "rank": 92,
+            "exchange_score": 4.909,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 129547203.11230478,
+                    "volume_24h_adjusted": 129547203.11230478,
+                    "volume_7d": 841661550.8543358,
+                    "volume_30d": 3769153903.0176854,
+                    "percent_change_volume_24h": -1.38966742,
+                    "percent_change_volume_7d": 0.30746974,
+                    "percent_change_volume_30d": -0.41334003,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 129512217.35235994,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 129512217.35235994
+                }
+            }
+        },
+        {
+            "id": 243,
+            "name": "BtcTurk | Pro ",
+            "slug": "btcturk-pro ",
+            "num_coins": 78,
+            "fiats": [
+                "TRY "
+            ],
+            "num_market_pairs": 176,
+            "traffic_score": 853.9379,
+            "rank": 67,
+            "exchange_score": 5.2303,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 112642397.42657858,
+                    "volume_24h_adjusted": 112642397.42657858,
+                    "volume_7d": 769963066.8916641,
+                    "volume_30d": 4508640533.4616785,
+                    "percent_change_volume_24h": 4.34180773,
+                    "percent_change_volume_7d": 20.03775872,
+                    "percent_change_volume_30d": 31.46837685,
+                    "effective_liquidity_24h": 460,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 112642397.42647071,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 112642397.42647071
+                }
+            }
+        },
+        {
+            "id": 1179,
+            "name": "ACDX ",
+            "slug": "acdx ",
+            "num_coins": 3,
+            "fiats": [],
+            "num_market_pairs": 4,
+            "traffic_score": 502.5373,
+            "rank": 614,
+            "exchange_score": 0.1,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 112450130.001465,
+                    "volume_24h_adjusted": 112450130.001465,
+                    "volume_7d": 797375074.8989575,
+                    "volume_30d": 3428899042.231047,
+                    "percent_change_volume_24h": 0,
+                    "percent_change_volume_7d": 0,
+                    "percent_change_volume_30d": 0,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 112450130.001465,
+                    "open_interest": 0,
+                    "derivative_volume_usd": 112450130.001465,
+                    "spot_volume": null,
+                    "spot_volume_usd": null
+                }
+            }
+        },
+        {
+            "id": 225,
+            "name": "Paribu ",
+            "slug": "paribu ",
+            "num_coins": 105,
+            "fiats": [
+                "TRY "
+            ],
+            "num_market_pairs": 113,
+            "traffic_score": 831.6589,
+            "rank": 114,
+            "exchange_score": 4.5776,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 109730534.16685136,
+                    "volume_24h_adjusted": 109730534.16685136,
+                    "volume_7d": 773615893.5246197,
+                    "volume_30d": 4107062931.265873,
+                    "percent_change_volume_24h": 23.68561327,
+                    "percent_change_volume_7d": -15.90456684,
+                    "percent_change_volume_30d": 0.5754821,
+                    "effective_liquidity_24h": 364,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 109730534.16685142,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 109730534.16685142
+                }
+            }
+        },
+        {
+            "id": 330,
+            "name": "BigONE ",
+            "slug": "bigone ",
+            "num_coins": 117,
+            "fiats": [],
+            "num_market_pairs": 129,
+            "traffic_score": 619.8754,
+            "rank": 70,
+            "exchange_score": 5.1814,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 108946113.521904,
+                    "volume_24h_adjusted": 108946113.521904,
+                    "volume_7d": 779380613.2471956,
+                    "volume_30d": 3556958059.9656906,
+                    "percent_change_volume_24h": 11.45475533,
+                    "percent_change_volume_7d": 2.77390516,
+                    "percent_change_volume_30d": 85.3843561,
+                    "effective_liquidity_24h": 531,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 108936873.56667455,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 108936873.56667455
+                }
+            }
+        },
+        {
+            "id": 477,
+            "name": "ProBit Global ",
+            "slug": "probit-exchange ",
+            "num_coins": 535,
+            "fiats": [],
+            "num_market_pairs": 696,
+            "traffic_score": 735.9366,
+            "rank": 32,
+            "exchange_score": 5.8835,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 108417582.32936239,
+                    "volume_24h_adjusted": 108417582.32936239,
+                    "volume_7d": 805420498.5311524,
+                    "volume_30d": 3425910415.8168736,
+                    "percent_change_volume_24h": -0.0067121,
+                    "percent_change_volume_7d": -0.42876049,
+                    "percent_change_volume_30d": 8.99146882,
+                    "effective_liquidity_24h": 448,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 108419165.28502242,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 108419165.28502242
+                }
+            }
+        },
+        {
+            "id": 1133,
+            "name": "TruBit Pro Exchange ",
+            "slug": "mexo-exchange ",
+            "num_coins": 85,
+            "fiats": [],
+            "num_market_pairs": 96,
+            "traffic_score": 603.4071,
+            "rank": 202,
+            "exchange_score": 3.6591,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 107213308.51303476,
+                    "volume_24h_adjusted": 107213308.51303476,
+                    "volume_7d": 905152578.0698695,
+                    "volume_30d": 2761045183.026127,
+                    "percent_change_volume_24h": 16.29333282,
+                    "percent_change_volume_7d": -3.90108409,
+                    "percent_change_volume_30d": 62.32070675,
+                    "effective_liquidity_24h": 344,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 107226075.45807444,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 107226075.45807444
+                }
+            }
+        },
+        {
+            "id": 253,
+            "name": "LocalTrade ",
+            "slug": "localtrade ",
+            "num_coins": 63,
+            "fiats": [],
+            "num_market_pairs": 118,
+            "traffic_score": 512.6284,
+            "rank": 275,
+            "exchange_score": 3.0893,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 104870726.36823106,
+                    "volume_24h_adjusted": 104870726.36823106,
+                    "volume_7d": 591240826.6094915,
+                    "volume_30d": 2771780080.920628,
+                    "percent_change_volume_24h": 13.29006969,
+                    "percent_change_volume_7d": -14.36029126,
+                    "percent_change_volume_30d": 86.6102261,
+                    "effective_liquidity_24h": 358,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 104870726.36823098,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 104870726.36823098
+                }
+            }
+        },
+        {
+            "id": 400,
+            "name": "Hotbit ",
+            "slug": "hotbit ",
+            "num_coins": 1305,
+            "fiats": [
+                "USD ",
+                " EUR ",
+                " GBP ",
+                " AUD ",
+                " BRL ",
+                " CAD ",
+                " RUB ",
+                " INR ",
+                " IDR ",
+                " VND ",
+                " KRW ",
+                " MYR ",
+                " THB ",
+                " NGN ",
+                " JPY ",
+                " SGD ",
+                " ZAR ",
+                " PHP ",
+                " ARS ",
+                " MXN ",
+                " PLN ",
+                " KZT ",
+                " NZD "
+            ],
+            "num_market_pairs": 1481,
+            "traffic_score": 801.6001,
+            "rank": 206,
+            "exchange_score": 3.6472,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 100914008.226399,
+                    "volume_24h_adjusted": 100914008.226399,
+                    "volume_7d": 583413803.9633362,
+                    "volume_30d": 1007810509.5209517,
+                    "percent_change_volume_24h": 20.72622578,
+                    "percent_change_volume_7d": -17.54123774,
+                    "percent_change_volume_30d": 50.91145686,
+                    "effective_liquidity_24h": 300,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 100914799.34240963,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 100914799.34240963
+                }
+            }
+        },
+        {
+            "id": 1131,
+            "name": "Bitcoiva ",
+            "slug": "bitcoiva ",
+            "num_coins": 170,
+            "fiats": [],
+            "num_market_pairs": 310,
+            "traffic_score": 589.5846,
+            "rank": 143,
+            "exchange_score": 4.3229,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 91458716.83518806,
+                    "volume_24h_adjusted": 91458716.83518806,
+                    "volume_7d": 805072742.453543,
+                    "volume_30d": 4064841963.541964,
+                    "percent_change_volume_24h": -29.78213331,
+                    "percent_change_volume_7d": -33.63593077,
+                    "percent_change_volume_30d": -35.50490371,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 91461304.94903009,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 91461304.94903009
+                }
+            }
+        },
+        {
+            "id": 599,
+            "name": "BankCEX ",
+            "slug": "bankcex ",
+            "num_coins": 46,
+            "fiats": [],
+            "num_market_pairs": 75,
+            "traffic_score": 646.7845,
+            "rank": 163,
+            "exchange_score": 4.0736,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 82252880.41336375,
+                    "volume_24h_adjusted": 82252880.41336375,
+                    "volume_7d": 642676098.0622065,
+                    "volume_30d": 2753448228.9811344,
+                    "percent_change_volume_24h": -3.76237238,
+                    "percent_change_volume_7d": -7.68300263,
+                    "percent_change_volume_30d": -10.09674439,
+                    "effective_liquidity_24h": 359,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 82222977.76652801,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 82222977.76652801
+                }
+            }
+        },
+        {
+            "id": 1063,
+            "name": "Curve (Ethereum) ",
+            "slug": "curve-finance ",
+            "num_coins": 49,
+            "fiats": [],
+            "num_market_pairs": 87,
+            "traffic_score": 652.509,
+            "rank": 21,
+            "exchange_score": 6.4904,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 81014464.75184534,
+                    "volume_24h_adjusted": 81014464.75184534,
+                    "volume_7d": 576440262.5764539,
+                    "volume_30d": 3189724399.9598413,
+                    "percent_change_volume_24h": 19.08069549,
+                    "percent_change_volume_7d": 20.1416414,
+                    "percent_change_volume_30d": -8.12325133,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 80611923.80783226,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 80611923.80783226
+                }
+            }
+        },
+        {
+            "id": 50,
+            "name": "EXMO ",
+            "slug": "exmo ",
+            "num_coins": 66,
+            "fiats": [
+                "USD ",
+                "RUB ",
+                "EUR ",
+                "GBP ",
+                "KZT ",
+                "UAH "
+            ],
+            "num_market_pairs": 176,
+            "traffic_score": 788.2583,
+            "rank": 95,
+            "exchange_score": 4.8901,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 80716619.85490833,
+                    "volume_24h_adjusted": 80716619.85490833,
+                    "volume_7d": 684773297.3081954,
+                    "volume_30d": 2401778412.6772275,
+                    "percent_change_volume_24h": -0.2268853,
+                    "percent_change_volume_7d": -0.92817353,
+                    "percent_change_volume_30d": -4.74906083,
+                    "effective_liquidity_24h": 381,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 80696650.40614542,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 80696650.40614542
+                }
+            }
+        },
+        {
+            "id": 1234,
+            "name": "Venus ",
+            "slug": "venus ",
+            "num_coins": 27,
+            "fiats": [],
+            "num_market_pairs": 14,
+            "traffic_score": 725.0618,
+            "rank": 155,
+            "exchange_score": 4.1593,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 79993267.60012884,
+                    "volume_24h_adjusted": 79993267.60012884,
+                    "volume_7d": 282963693.065629,
+                    "volume_30d": 4042691735.826971,
+                    "percent_change_volume_24h": 15.4059568,
+                    "percent_change_volume_7d": -85.46061261,
+                    "percent_change_volume_30d": 114.97422854,
+                    "effective_liquidity_24h": null,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 79993234.41725503,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 79993234.41725503
+                }
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Felixo ",
+            "slug": "felixo ",
+            "num_coins": 16,
+            "fiats": [],
+            "num_market_pairs": 25,
+            "traffic_score": 586.9275,
+            "rank": 255,
+            "exchange_score": 3.1993,
+            "last_updated": "2023-05-08T11:10:12.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 77546242.52986209,
+                    "volume_24h_adjusted": 77546242.52986209,
+                    "volume_7d": 619307446.647067,
+                    "volume_30d": 1974145093.437767,
+                    "percent_change_volume_24h": 0.23445395,
+                    "percent_change_volume_7d": -2.80158711,
+                    "percent_change_volume_30d": 2.10057152,
+                    "effective_liquidity_24h": 192,
+                    "last_updated": "2023-05-08T11:10:12.000Z ",
+                    "spot_volume": 77546242.52986209,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 77546242.52986209
+                }
+            }
+        },
+        {
+            "id": 139,
+            "name": "bitFlyer ",
+            "slug": "bitflyer ",
+            "num_coins": 9,
+            "fiats": [
+                "USD ",
+                "JPY ",
+                "EUR "
+            ],
+            "num_market_pairs": 12,
+            "traffic_score": 796.8867,
+            "rank": 15,
+            "exchange_score": 6.7219,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 74465927.16288833,
+                    "volume_24h_adjusted": 74465927.16288833,
+                    "volume_7d": 427914214.0822376,
+                    "volume_30d": 2294969164.316313,
+                    "percent_change_volume_24h": 43.49009076,
+                    "percent_change_volume_7d": -21.80473209,
+                    "percent_change_volume_30d": 186.20459656,
+                    "effective_liquidity_24h": 619,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 74460957.47653341,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 74460957.47653341
+                }
+            }
+        },
+        {
+            "id": 16,
+            "name": "Poloniex ",
+            "slug": "poloniex ",
+            "num_coins": 359,
+            "fiats": [],
+            "num_market_pairs": 551,
+            "traffic_score": 779.2573,
+            "rank": 63,
+            "exchange_score": 5.2736,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 70797782.63899031,
+                    "volume_24h_adjusted": 70797782.63899031,
+                    "volume_7d": 613733103.6279657,
+                    "volume_30d": 2792109133.25727,
+                    "percent_change_volume_24h": -9.28759137,
+                    "percent_change_volume_7d": -4.99042259,
+                    "percent_change_volume_30d": -10.85975566,
+                    "effective_liquidity_24h": 326,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "derivative_volume": 11330480.03217299,
+                    "open_interest": 8043027.213912983,
+                    "derivative_volume_usd": 11330480.03217299,
+                    "spot_volume": 59471644.28044901,
+                    "spot_volume_usd": 59471644.28044901
+                }
+            }
+        },
+        {
+            "id": 890,
+            "name": "Bitay ",
+            "slug": "bitay ",
+            "num_coins": 224,
+            "fiats": [
+                "TRY ",
+                "USD ",
+                "EUR ",
+                "INR "
+            ],
+            "num_market_pairs": 293,
+            "traffic_score": 649.9681,
+            "rank": 212,
+            "exchange_score": 3.5557,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 68004515.41968599,
+                    "volume_24h_adjusted": 68004515.41968599,
+                    "volume_7d": 381132353.33921987,
+                    "volume_30d": 3866564667.043912,
+                    "percent_change_volume_24h": -6.80198971,
+                    "percent_change_volume_7d": -52.10523042,
+                    "percent_change_volume_30d": 456.52782493,
+                    "effective_liquidity_24h": 406,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 68004515.41968596,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 68004515.41968596
+                }
+            }
+        },
+        {
+            "id": 154,
+            "name": "Dex-Trade ",
+            "slug": "dex-trade ",
+            "num_coins": 91,
+            "fiats": [],
+            "num_market_pairs": 189,
+            "traffic_score": 684.5295,
+            "rank": 102,
+            "exchange_score": 4.7657,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 67042238.20744767,
+                    "volume_24h_adjusted": 67042238.20744767,
+                    "volume_7d": 470300081.5650151,
+                    "volume_30d": 2297549544.835828,
+                    "percent_change_volume_24h": 14.9791272,
+                    "percent_change_volume_7d": -5.98860684,
+                    "percent_change_volume_30d": 21.62844974,
+                    "effective_liquidity_24h": 452,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 67041565.36846254,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 67041565.36846254
+                }
+            }
+        },
+        {
+            "id": 867,
+            "name": "Qmall Exchange ",
+            "slug": "qmall ",
+            "num_coins": 49,
+            "fiats": [],
+            "num_market_pairs": 94,
+            "traffic_score": null,
+            "rank": 101,
+            "exchange_score": 4.7742,
+            "last_updated": "2023-05-08T11:10:11.000Z ",
+            "quote": {
+                "USD": {
+                    "volume_24h": 65564025.42923149,
+                    "volume_24h_adjusted": 65564025.42923149,
+                    "volume_7d": 521748452.0811369,
+                    "volume_30d": 2125142886.0242825,
+                    "percent_change_volume_24h": 11.87578552,
+                    "percent_change_volume_7d": -22.93910911,
+                    "percent_change_volume_30d": 182.22009069,
+                    "effective_liquidity_24h": 547,
+                    "last_updated": "2023-05-08T11:10:11.000Z ",
+                    "spot_volume": 65565182.57299334,
+                    "derivative_volume_usd": null,
+                    "spot_volume_usd": 65565182.57299334
+                }
+            }
+        }
+    ]
