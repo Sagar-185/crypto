@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: ErrorBoundary is added locally, changes are not done, but here it doesnt need to add 
+
 
 ### `npm start`
 
